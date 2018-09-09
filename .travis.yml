@@ -1,0 +1,34 @@
+language: python
+
+python:
+    - "3.6"
+
+install:
+    
+    - pip install Pygments
+    - npm install -g postcss-cli
+    - npm install -g bulma
+    - npm install -g minify
+    - npm install -g fingerprint
+    - which postcss
+    - echo path:$PATH
+    - wget -qO- https://api.github.com/repos/gohugoio/hugo/releases/latest | sed -r -n '/browser_download_url/{/Linux-64bit.deb/{s@[^:]*:[[:space:]]*"([^"]*)".*@\1@g;p}}' | xargs wget
+    - sudo dpkg -i hugo*.deb
+    - rm -rf docs 2> /dev/null
+    - mkdir -p content
+    - mkdir -p docs
+
+script:
+    - hugo
+    - cp CNAME docs
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  email: $GITHUB_EMAIL
+  name: $GITHUB_USERNAME
+  verbose: true
+  keep-history: true
+  local-dir: .
+  target_branch: master

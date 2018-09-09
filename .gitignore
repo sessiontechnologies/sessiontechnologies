@@ -1,0 +1,4 @@
+resources/_gen
+*.deb
+node_modules/
+package-lock.json
