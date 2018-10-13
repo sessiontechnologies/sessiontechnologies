@@ -173,6 +173,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #service {
   text-align: center;
   padding: 90px 0;
+  background: #F5F5F5;
 }
 #service .service-item {
   padding-bottom: 30px;
