@@ -4,9 +4,6 @@ languageCode = "en-us"
 theme = "airspace-hugo"
 staticDir = "static"
 
-[menu]
-
-# The site's parameters
 [params]
   date_format = "6 January 2006"
 
