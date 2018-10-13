@@ -1,5 +1,5 @@
 title = "Session Technologies"
-baseURL = "https://session.it"
+baseURL = "https://session.it/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 staticDir = "static"
