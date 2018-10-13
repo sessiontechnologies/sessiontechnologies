@@ -1,0 +1,23 @@
+enable: true
+title: Our Technologies
+subtitle: >
+  Some of the tools we provide as part of our solutions
+clients:
+  - image: "/images/logos/technologies/openshift.png"
+    url: "#"
+  - image: "/images/logos/technologies/github.png"
+    url: "#"
+  - image: "/images/logos/technologies/travisci.png"
+    url: "#"
+  - image: "/images/logos/technologies/alfresco.png"
+    url: "#"
+  - image: "/images/logos/technologies/googlesuite.png"
+    url: "#"
+  - image: "/images/logos/technologies/hubspot.png"
+    url: "#"
+  - image: "/images/logos/technologies/appearin.png"
+    url: "#"
+  - image: "/images/logos/technologies/whatsapp.png"
+    url: "#"
+  - image: "/images/logos/technologies/waveapps.png"
+    url: "#"

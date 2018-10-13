@@ -1,0 +1,3 @@
+[submodule "themes/airspace-hugo"]
+	path = themes/airspace-hugo
+	url = git@github.com:sessiontechnologies/airspace-hugo.git
