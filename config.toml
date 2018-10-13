@@ -3,6 +3,7 @@ baseURL = "https://session.it"
 languageCode = "en-us"
 theme = "airspace-hugo"
 staticDir = "static"
+publishDir = "docs"
 
 [params]
   date_format = "6 January 2006"
