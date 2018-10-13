@@ -1,0 +1,25 @@
+enable: true
+title: Our Services
+subtitle: >
+  Choose the combination of packages that work for you
+content:
+
+  - icon: ion-compass
+    name: ChatOps
+    text: >
+      Design, build and deploy chat bots that your customers can use to interact 
+
+  - icon: ion-leaf
+    name: Open source green light
+    text: >
+      The ultimate validation to consume or contribute to open source projects with peace of mind
+
+  - icon: ion-coffee
+    name: Process automation discovery
+    text: >
+      Analysing and decomposing customer's processes to identify opportunities for automation and improvements
+
+  - icon: ion-earth
+    name: Fast and secure websites
+    text: >
+      We design and build static websites that are fast and secure, taking care of all aspects, from branding to coding
