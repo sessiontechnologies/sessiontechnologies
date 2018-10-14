@@ -7,7 +7,7 @@ content:
   - icon: ion-compass
     name: ChatOps
     text: >
-      Design, build and deploy chat bots that your customers can use to interact 
+      Designing, building and deploying chat bots that your customers can use to interact 
 
   - icon: ion-leaf
     name: Open source green light
@@ -22,4 +22,9 @@ content:
   - icon: ion-earth
     name: Fast and secure websites
     text: >
-      We design and build static websites that are fast and secure, taking care of all aspects, from branding to coding
+      Designing and building static websites that are fast and secure, taking care of all aspects, from branding to coding
+
+  - icon: ion-planet
+    name: Marketing operations
+    text: >
+      Implementing marketing operations based on data-driven performance indicators; providing all training and support needed to integrate marketing automation efficiently
