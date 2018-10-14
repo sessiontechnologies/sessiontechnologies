@@ -23,7 +23,7 @@ publishDir = "docs"
     enable = true
     title = "5 steps to success"
     italic = "We are a small, efficient and distributed team of professionals, covering a wide set of technologies and platforms and delivering the best solutions for our customers problems."
-    paragraph = "With customers in United States, Spain, Italy and the Netherlends, Session Technologies provides an established approach to drive customer success: <b>gather requirements</b>, <b>plan<b>, <b>implement</b>, <b>measure</b> and <b>train</b>."
+    paragraph = "With customers in United States, Spain, Italy and the Netherlends, Session Technologies provides an established approach to drive customer success: <b>gather requirements</b>, <b>plan</b>, <b>implement</b>, <b>measure</b> and <b>train</b>."
 
   [params.blog]
     enable = false
