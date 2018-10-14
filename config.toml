@@ -17,7 +17,7 @@ publishDir = "docs"
     enable = true
     title = "Session Technologies"
     subtitle = "Claim your time back"
-    paragraph = "In a globalizated and decentralized world, digital transformation is one of the keys to emerge and succeed. <b>Session Technologies</b> brings experience and leadership in information technologies that allow to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
+    paragraph = "In a globalizated and decentralized world, digital transformation the key to emerge and succeed. <b>Session Technologies</b> brings experience and leadership in information technologies, allowing our customers to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
 
   [params.wrapper]
     enable = true
