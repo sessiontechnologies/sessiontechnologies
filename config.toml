@@ -15,9 +15,9 @@ publishDir = "docs"
 
   [params.slider]
     enable = true
-    title = "Session IT"
-    subtitle = "Technologies that save time"
-    paragraph = "In a world dominated by globalization and decentralization, digital transformation is key to survive. <b>Session Technologies</b> brings experience and leadership in information technologies that allow to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
+    title = "Session Technologies"
+    subtitle = "Claim your time back"
+    paragraph = "In a globalizated and decentralized world, digital transformation is one of the keys to emerge and succeed. <b>Session Technologies</b> brings experience and leadership in information technologies that allow to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
 
   [params.wrapper]
     enable = true
