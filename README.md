@@ -5,6 +5,7 @@ We use [GoHugo](https://gohugo.io/) as web engine, with [Fresh theme](https://gi
 ## Local run (macOS)
 ```
 brew upgrade hugo
+hugo version #should be version 0.49 or higher
 git clone https://github.com/sessiontechnologies/sessiontechnologies
 cd sessiontechnologies
 git submodule init
@@ -13,12 +14,16 @@ hugo server &
 open http://localhost:1313
 ```
 
+## Preview your website
+https://rawcdn.githack.com/sessiontechnologies/sessiontechnologies/dev/docs/index.html
+
+## ReCapcha
+https://www.google.com/recaptcha/admin#v3signup
+
 ## TODO
-- light popup, using a lib., for Google Forms submission
-- form styling
-- Update fonts, see themes/ultimate-hugo/static/fonts
-- Complete content
+- Recapcha styling
 - Multi language
+- Complete content
 - Use forestry to edit content
 
 ## Libraries and licenses

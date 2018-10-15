@@ -7,12 +7,6 @@ publishDir = "docs"
 
 [params]
 
-  logo = "img/logo.png"
-  
-  gacode = ""
-  jivoid = ""
-  privyid = ""
-
   sections = [
     { slider = "top" }, 
     { simple = "wrapper" },
@@ -20,8 +14,19 @@ publishDir = "docs"
     { carousel = "technologies" },
     { form = "contact" }]
 
+  [params.meta]
+    author = "Session Technologies"
+    description = "Session Technologies - Claim your time back"
+
+  [params.integrations]
+    gacode = ""
+    jivoid = ""
+    privyid = ""
+    recapcha = "6LedJ3UUAAAAACNXS56aQzPpDKenasql3Fg9KArG"
+
   [params.header]
     enable = false
+    logo = "img/logo.png"
 
   [params.footer]
     enable = false

@@ -1,19 +1,21 @@
 slider:
   top:
-    mtitle: "Session Technologies"
+    # backgroundcolor: "grey"
+    backgroundimage: "img/slider-bg.jpg"
+    title: "Session Technologies"
     subtitle: "Claim your time back"
     paragraph: "In a globalizated and decentralized world, digital transformation is the key to emerge and succeed. <b>Session Technologies</b> brings experience and leadership in information technologies, allowing our customers to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
 
 simple:
   wrapper:
-    image: img/wrapper-img.png
+    image: img/office-img.png
     title: "5 steps to success"
     subtitle: "We are a small, efficient and distributed team of professionals, covering a wide set of technologies and platforms and delivering the best solutions for our customers problems."
     paragraph: "With customers in United States, Spain, Italy and the Netherlends, Session Technologies provides an established approach to drive customer success: <b>gather requirements</b>, <b>plan</b>, <b>implement</b>, <b>measure</b> and <b>train</b>."
 
 grid:
   services:
-    backgroundcolor: lightgrey
+    backgroundcolor: "#f6f6f8"
     title: Our Services
     subtitle: >
         Choose the combination of packages that work for you
@@ -49,6 +51,7 @@ carousel:
       - image: "/img/logos/technologies/aws.png"
       - image: "/img/logos/technologies/clojure.png"
       - image: "/img/logos/technologies/github.png"
+      - image: "/img/logos/technologies/hugo.png"
       - image: "/img/logos/technologies/travisci.png"
       - image: "/img/logos/technologies/alfresco.png"
       - image: "/img/logos/technologies/googlesuite.png"
@@ -61,6 +64,7 @@ scroll:
 
 form:
   contact:
+    backgroundimage: "img/form-bg.jpg"
     title: "Drop us a note"
     subtitle: "Tell us more about you and we'll get back with great ideas!"
     action: "https://docs.google.com/forms/d/e/1FAIpQLScn_78SYTd_c23mzdKjhc7SQt_lTyw9xQh_T6LUuOWYMOI_Kw/formResponse"
@@ -68,8 +72,6 @@ form:
     nameid: "entry.94223958"
     email: "Your email"
     emailid: "entry.874329450"
-    subject: "Your subject"
-    subjectid: ""
     message: "Your message"
     messageid: "entry.1059231275"
     button: "Send message"
