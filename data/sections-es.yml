@@ -1,0 +1,77 @@
+slider:
+  top:
+    # backgroundcolor: "grey"
+    backgroundimage: "img/slider-bg.jpg"
+    title: "Session Technologies"
+    subtitle: "Recupera tu tiempo"
+    paragraph: "En un mundo globalizado y decentralizado, la transformacion digital es la llave para tener exito. <b>Session Technologies</b> pone experencia y liderazgo en las tecnologias de la informacione, permitiendo a nuestros clientes de operar de forma mas sencilla, rapida y automatica, ahorrando tiempo precioso que se puede intertir en otras tareas."
+
+simple:
+  wrapper:
+    image: img/office-img.png
+    title: "5 etapas para el exito"
+    subtitle: "We are a small, efficient and distributed team of professionals, covering a wide set of technologies and platforms and delivering the best solutions for our customers problems."
+    paragraph: "With customers in United States, Spain, Italy and the Netherlends, Session Technologies provides an established approach to drive customer success: <b>gather requirements</b>, <b>plan</b>, <b>implement</b>, <b>measure</b> and <b>train</b>."
+
+grid:
+  services:
+    backgroundcolor: "#f6f6f8"
+    title: Our Services
+    subtitle: >
+        Choose the combination of packages that work for you
+    content:
+      - ionicon: compass
+        name: ChatOps
+        text: >
+          Designing, building and deploying chat bots that your customers can use to interact 
+      - ionicon: ribbon
+        name: Open source green light
+        text: >
+          The ultimate validation to consume or contribute to open source projects with peace of mind
+      - ionicon: git-network
+        name: Process automation discovery
+        text: >
+          Analysing and decomposing customer's processes to identify opportunities for automation and improvements
+      - ionicon: fastforward
+        name: Fast and secure websites
+        text: >
+          Designing and building static websites that are fast and secure, taking care of all aspects, from branding to coding
+      - ionicon: analytics
+        name: Marketing operations
+        text: >
+          Implementing marketing operations based on data-driven performance indicators; providing all training and support needed to integrate marketing automation efficiently
+
+carousel:
+  technologies:
+    title: Our Technologies
+    subtitle: >
+      Some of the tools we provide as part of our solutions
+    logos:
+      - image: "/img/logos/technologies/openshift.png"
+      - image: "/img/logos/technologies/aws.png"
+      - image: "/img/logos/technologies/clojure.png"
+      - image: "/img/logos/technologies/github.png"
+      - image: "/img/logos/technologies/hugo.png"
+      - image: "/img/logos/technologies/travisci.png"
+      - image: "/img/logos/technologies/alfresco.png"
+      - image: "/img/logos/technologies/googlesuite.png"
+      - image: "/img/logos/technologies/hubspot.png"
+
+scroll:
+  feature:
+    title: "Our mission"
+    content: ""
+
+form:
+  contact:
+    backgroundimage: "img/form-bg.jpg"
+    title: "Drop us a note"
+    subtitle: "Tell us more about you and we'll get back with great ideas!"
+    action: "https://docs.google.com/forms/d/e/1FAIpQLScn_78SYTd_c23mzdKjhc7SQt_lTyw9xQh_T6LUuOWYMOI_Kw/formResponse"
+    name: "Your name"
+    nameid: "entry.94223958"
+    email: "Your email"
+    emailid: "entry.874329450"
+    message: "Your message"
+    messageid: "entry.1059231275"
+    button: "Send message"
