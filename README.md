@@ -41,7 +41,7 @@ https://www.google.com/recaptcha/admin#v3signup
 ## Libraries and licenses
 - [Bootstrap v4.1.3](https://getbootstrap.com) (MIT)
 - [jQuery v3.3.1](https://jquery.org) (MIT)
-- [Waypoints - 4.0.1](http://imakewebthings.com/waypoints) (MIT)
+- [Waypoints v4.0.1](http://imakewebthings.com/waypoints) (MIT)
 - [Owl Carousel v2.3.4](https://github.com/OwlCarousel2/OwlCarousel2) (MIT)
 
 ## Fonts
