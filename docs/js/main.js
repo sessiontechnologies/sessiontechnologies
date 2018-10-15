@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$('#clients-logo').owlCarousel({
+	$('.owl-carousel').owlCarousel({
 	    autoplay: true,
 	    rewind: true,
 	    autoplayTimeout:3000,
