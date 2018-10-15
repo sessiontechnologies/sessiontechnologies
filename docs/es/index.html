@@ -48,6 +48,7 @@
 
   <script src='https://www.google.com/recaptcha/api.js?render=6LedJ3UUAAAAACNXS56aQzPpDKenasql3Fg9KArG'></script>
 
+ 
 
 </head>
 <body>
@@ -374,7 +375,7 @@
                       <textarea class="form-control" rows="3" name="entry.1059231275" placeholder="Your message"></textarea>
                     </div>
                     
-                    <button class="btn btn-default" data-toggle="modal" data-target="#formSubmitted" type="submit">Send message</button>
+                    <button class="btn btn-default" data-toggle="modal" data-target="#formSubmitted" type="submit" onsubmit="grecaptcha.execute('', {action: 'homepage'});">Send message</button>
                   </div>
               </div>
             </form>

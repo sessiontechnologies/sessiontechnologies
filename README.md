@@ -22,13 +22,29 @@ https://www.google.com/recaptcha/admin#v3signup
 
 ## TODO
 - Recapcha styling
-- Multi language
+- fix http://localhost:1313/css/lib/font-awesome.min.css
+- Theme documentation:
+  - features
+  - how to start (git submodule add/update)
+  - how to configure
+  - how to customise
+  - what's new
+  - libraries
+  - licenses
+- Small docs for sessiontechnologies (as ultimate theme example site)
+- Blogpost for LinkedIN - "building static website in a post-wordpress era"
+
+
+
 - Complete content
 - Use forestry to edit content
 
 ## Libraries and licenses
 - [Bootstrap v4.1.3](https://getbootstrap.com) (MIT)
-- [jquery.counterup.js 2.1.0](https://github.com/ciromattia/jquery.counterup) (GPL v2) - to be removed
 - [jQuery v3.3.1](https://jquery.org) (MIT)
 - [Waypoints - 4.0.1](http://imakewebthings.com/waypoints) (MIT)
 - [Owl Carousel v2.3.4](https://github.com/OwlCarousel2/OwlCarousel2) (MIT)
+
+## Fonts
+- Open Sans
+- Ubuntu
