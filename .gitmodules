@@ -1,3 +1,3 @@
-[submodule "themes/airspace-hugo"]
-	path = themes/airspace-hugo
-	url = https://github.com/sessiontechnologies/airspace-hugo.git
+[submodule "themes/ultimate-hugo"]
+	path = themes/ultimate-hugo
+	url = https://github.com/sessiontechnologies/ultimate-hugo.git
