@@ -15,7 +15,6 @@ DefaultContentLanguage = "en"
     weight = 2
 
 [params]
-
   sections = [
     { slider = "top" }, 
     { simple = "wrapper" },
@@ -31,7 +30,6 @@ DefaultContentLanguage = "en"
     gacode = ""
     jivoid = ""
     privyid = ""
-    recapcha = "6LedJ3UUAAAAACNXS56aQzPpDKenasql3Fg9KArG"
 
   [params.header]
     enable = true

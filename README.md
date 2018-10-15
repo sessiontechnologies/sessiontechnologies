@@ -23,20 +23,19 @@ https://www.google.com/recaptcha/admin#v3signup
 ## TODO
 - Recapcha styling
 - fix http://localhost:1313/css/lib/font-awesome.min.css
+
 - Theme documentation:
   - features
   - how to start (git submodule add/update)
   - how to configure
-  - how to customise
-  - what's new
+  - how to extend the theme
   - libraries
   - licenses
 - Small docs for sessiontechnologies (as ultimate theme example site)
 - Blogpost for LinkedIN - "building static website in a post-wordpress era"
 
-
-
 - Complete content
+
 - Use forestry to edit content
 
 ## Libraries and licenses
