@@ -1,17 +1,22 @@
 slider:
   top:
     # backgroundcolor: "grey"
-    backgroundimage: "img/slider-bg.jpg"
+    backgroundimage: /img/slider-bg.jpg
     title: "Session Technologies"
     subtitle: "Claim your time back"
     paragraph: "In a globalizated and decentralized world, digital transformation is the key to emerge and succeed. <b>Session Technologies</b> brings experience and leadership in information technologies, allowing our customers to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
 
 simple:
   wrapper:
-    image: img/office-img.png
+    image: /img/office-img.png
     title: "5 steps to success"
     subtitle: "We are a small, efficient and distributed team of professionals, covering a wide set of technologies and platforms and delivering the best solutions for our customers problems."
     paragraph: "With customers in United States, Spain, Italy and the Netherlends, Session Technologies provides an established approach to drive customer success: <b>gather requirements</b>, <b>plan</b>, <b>implement</b>, <b>measure</b> and <b>train</b>."
+  about:
+    image: /img/office-img.png
+    title: "About Session Technologies"
+    subtitle: "We are a small, efficient and distributed team of professionals, covering a wide set of technologies and platforms and delivering the best solutions for our customers problems."
+    paragraph: ""
 
 grid:
   services:
@@ -56,11 +61,6 @@ carousel:
       - image: "/img/logos/technologies/alfresco.png"
       - image: "/img/logos/technologies/googlesuite.png"
       - image: "/img/logos/technologies/hubspot.png"
-
-scroll:
-  feature:
-    title: "Our mission"
-    content: ""
 
 form:
   contact:

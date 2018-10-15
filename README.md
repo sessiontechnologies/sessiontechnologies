@@ -17,13 +17,7 @@ open http://localhost:1313
 ## Preview your website
 https://rawcdn.githack.com/sessiontechnologies/sessiontechnologies/dev/docs/index.html
 
-## ReCapcha
-https://www.google.com/recaptcha/admin#v3signup
-
 ## TODO
-- Recapcha styling
-- fix http://localhost:1313/css/lib/font-awesome.min.css
-
 - Theme documentation:
   - features
   - how to start (git submodule add/update)
@@ -33,10 +27,29 @@ https://www.google.com/recaptcha/admin#v3signup
   - licenses
 - Small docs for sessiontechnologies (as ultimate theme example site)
 - Blogpost for LinkedIN - "building static website in a post-wordpress era"
+- CMS - Use forestry to edit content
 
-- Complete content
-
-- Use forestry to edit content
+## Features
+- Easy to use
+  - Getting started
+  - Edit homepage content and section setup
+  - Add a page
+  - Managing images
+  - Preview your changes locally
+- Fully customisable and data-driven
+  - how to define sections
+  - how to enable integrations
+  - show header and footer
+  - how to override CSS
+- Multi-language support
+- Preview mode - https://rawcdn.githack.com/sessiontechnologies/sessiontechnologies/dev/docs/index.html
+- Out of the box integrations: Google Analytics, Jivo chat and Privy
+- 100% Open Source, only permissive licenses; libraries and attributions below
+- Production-ready: responsive, uber fast, w3c validated
+- Fully documented: how to get started, configure, extend, go live (travis ci integration, github pages) and maintain it (github branching)
+- CDN free, works behind any firewall
+- Using latest libraries, like Bootstrap 4.x and JQuery 3.x
+- Frequently updated and improved
 
 ## Libraries and licenses
 - [Bootstrap v4.1.3](https://getbootstrap.com) (MIT)
