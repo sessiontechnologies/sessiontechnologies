@@ -44,12 +44,6 @@
 <link rel="stylesheet" href="https://session.it/css/style.css" />
 
 
-
-
-  <script src='https://www.google.com/recaptcha/api.js?render=6LedJ3UUAAAAACNXS56aQzPpDKenasql3Fg9KArG'></script>
-
- 
-
 </head>
 <body>
 	
@@ -333,6 +327,7 @@
 
    
 
+
 <section class="form" style=" background: url(img/form-bg.jpg) no-repeat; background-size: cover;">
   <div class="container">
     <div class="row">
@@ -361,7 +356,7 @@
           <div class="contact-form">
             <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;">
             </iframe>
-            <form action="https://docs.google.com/forms/d/e/1FAIpQLScn_78SYTd_c23mzdKjhc7SQt_lTyw9xQh_T6LUuOWYMOI_Kw/formResponse" method="post" target="hidden_iframe">
+            <form id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLScn_78SYTd_c23mzdKjhc7SQt_lTyw9xQh_T6LUuOWYMOI_Kw/formResponse" method="post" target="hidden_iframe">
               <div class="block">
                 <div class="row">
                   <div class="col-md-6">
@@ -374,8 +369,7 @@
                     <div class="form-group-2">
                       <textarea class="form-control" rows="3" name="entry.1059231275" placeholder="Your message"></textarea>
                     </div>
-                    
-                    <button class="btn btn-default" data-toggle="modal" data-target="#formSubmitted" type="submit" onsubmit="grecaptcha.execute('', {action: 'homepage'});">Send message</button>
+                    <button class="btn btn-default" data-toggle="modal" data-target="#formSubmitted" type="submit">Send message</button>
                   </div>
               </div>
             </form>
