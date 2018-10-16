@@ -3,7 +3,6 @@ title = "Session Technologies"
 baseURL = "https://session.it/"
 theme = "ultimate-hugo"
 staticDir = "static"
-publishDir = "docs"
 
 DefaultContentLanguage = "en"
 [languages]
