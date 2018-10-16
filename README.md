@@ -8,8 +8,6 @@ This is our website, built with [GoHugo](https://gohugo.io/), Travis CI and GitH
 
 We use the [Ultimate Hugo theme](https://github.com/sessiontechnologies/ultimate-hugo), that we implemented for this website and improved for reusability.
 
-The [dev](https://rawcdn.githack.com/sessiontechnologies/sessiontechnologies/dev/docs/index.html) branch contains a preview of the website.
-
 ## Local run (macOS)
 
 Open a Terminal and run the following commands; you need to [install Hugo](https://gohugo.io/getting-started/installing/) first; **make sure you are using version 0.49 or higher!**.
