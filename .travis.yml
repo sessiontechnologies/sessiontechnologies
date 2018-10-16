@@ -8,6 +8,9 @@ install:
   - export PATH=${PATH}:/tmp/hugo
 
 script:
+  - npm i html-validator-cli -g
+  - hugo server &
+  - html-validator http://localhost:1313
   - hugo
 
 deploy:
