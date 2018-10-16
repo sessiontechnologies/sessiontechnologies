@@ -8,8 +8,6 @@ install:
   - export PATH=${PATH}:/tmp/hugo
 
 script:
-  - mkdir -p content
-  - rm -rf docs
   - hugo
 
 deploy:
