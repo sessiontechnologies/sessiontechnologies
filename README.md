@@ -4,7 +4,7 @@ Session Technologies is a consulting firm specialized in web and automation tech
 
 This is our website, built with [GoHugo](https://gohugo.io/), Travis CI and GitHub Pages.
 
-We use the [Ultimate Hugo theme](github.com/sessiontechnologies/ultimate-hugo), that we implemented for this website and improved for reusability.
+We use the [Ultimate Hugo theme](https://github.com/sessiontechnologies/ultimate-hugo), that we implemented for this website and improved for reusability.
 
 The [dev](https://rawcdn.githack.com/sessiontechnologies/sessiontechnologies/dev/docs/index.html) branch contains a preview of the website.
 
