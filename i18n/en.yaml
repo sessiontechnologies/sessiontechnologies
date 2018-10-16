@@ -68,3 +68,8 @@
   translation: "Your message"
 - id: form_contact_button
   translation: "Send message"
+
+- id: 404_message
+  translation: "Ouch, the page you're looking for does not exist. Please, go back to the"
+- id: homepage
+  translation: "homepage"
