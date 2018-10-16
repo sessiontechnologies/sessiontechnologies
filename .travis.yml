@@ -19,6 +19,6 @@ deploy:
   verbose: true
   keep-history: true
   local-dir: .
-  target_branch: gh_pages
+  target_branch: gh-pages
   on:
     branch: master
