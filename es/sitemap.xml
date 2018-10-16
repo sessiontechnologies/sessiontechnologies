@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://session.it/es/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://session.it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://session.it/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://session.it/es/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://session.it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://session.it/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://session.it/es/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://session.it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://session.it/es/tags/"
+                />
+  </url>
+  
+</urlset>

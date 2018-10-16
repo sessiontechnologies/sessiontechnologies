@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Session Technologies</title>
+    <link>https://session.it/es/</link>
+    <description>Recent content on Session Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Session Technologies SL</copyright>
+    
+	<atom:link href="https://session.it/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
