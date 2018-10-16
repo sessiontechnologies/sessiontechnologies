@@ -1,0 +1,41 @@
+copyright = "Session Technologies SL"
+title = "Session Technologies"
+baseURL = "https://session.it/"
+theme = "ultimate-hugo"
+staticDir = "static"
+publishDir = "docs"
+
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    languageCode = "en-us"
+    weight = 1
+  [languages.es]
+    languageCode = "es"
+    weight = 2
+
+[params]
+
+[params.homepage]
+  sections = [
+    { slider = "top" }, 
+    { simple = "wrapper" },
+    { grid = "services" },
+    { carousel = "technologies" },
+    { form = "contact" }]
+
+  [params.meta]
+    author = "Session Technologies"
+    description = "Session Technologies - Claim your time back"
+
+  [params.integrations]
+    gacode = ""
+    jivoid = ""
+    privyid = ""
+
+  [params.header]
+    enable = true
+    logo = "img/logo.png"
+
+  [params.footer]
+    enable = false

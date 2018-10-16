@@ -1,0 +1,6 @@
+.DS_Store
+*.deb
+node_modules/
+package-lock.json
+resources/
+docs/

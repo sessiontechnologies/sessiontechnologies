@@ -1,0 +1,32 @@
+<!-- START header.html -->
+<header>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+              <img width="50" src="{{ .Site.BaseURL }}{{ .Site.Params.header.logo }}" alt="{{ .Title }} Logo"/>
+            </a>
+          </div>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="{{ .Site.BaseURL }}"></a></li>
+            {{ range .Site.Menus.header }}
+              <li><a href="{{ .URL }}/">{{ .Name }}</a></li>
+            {{ end }}
+            </ul>
+          </div>
+          <div>
+            {{ range $.Site.Home.AllTranslations }}
+              <span class="icon-bar"><a href="{{ .Permalink }}"><img width="24" src="{{ .Site.BaseURL }}img/{{ .Language }}-flag.png" alt="{{ .Language }} flag"/></a></span>
+            {{ end }}
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>
+</header>
+<!-- END header.html -->

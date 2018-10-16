@@ -1,0 +1,24 @@
+env:
+  - HUGO_VERSION=0.49.2
+
+install:
+  - mkdir -p /tmp/hugo 
+  - wget -P /tmp/hugo https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - tar xvzf /tmp/hugo/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -C /tmp/hugo
+  - export PATH=${PATH}:/tmp/hugo
+
+script:
+  - hugo
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  email: $GITHUB_EMAIL
+  name: $GITHUB_USERNAME
+  verbose: true
+  keep-history: true
+  local-dir: .
+  target_branch: gh-pages
+  on:
+    branch: master

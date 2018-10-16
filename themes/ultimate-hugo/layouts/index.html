@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language }}">
+<head>
+	{{ partial "head.html" . }}
+</head>
+<body>
+	{{ if .Site.Params.header.enable }}
+		{{ partial "header.html" . }}
+	{{ end }}
+	{{ range $section := .Site.Params.homepage.sections }}
+    	{{ range $sectiontype, $element := $section }}
+    		{{ $path := $sectiontype | printf "%s.html" }}
+    		{{ $sectionlang := index $.Site.Data "sections" }}
+    		{{ $sectiondata := index $sectionlang $sectiontype }}
+    		{{ $blockdata := index $sectiondata $element }}
+    		{{ partial $path $blockdata }}
+    	{{ end }}
+    {{ end }}
+
+	{{ if .Site.Params.footer.enable }}
+		{{ partial "footer.html" . }}
+	{{ end }}
+
+	{{ partial "js-libs.html" . }}
+</body>
+</html>
