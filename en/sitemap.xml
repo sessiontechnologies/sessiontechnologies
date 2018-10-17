@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://session.it/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://session.it/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -34,6 +30,10 @@
                 hreflang="en"
                 href="https://session.it/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://session.it/</loc>
   </url>
   
   <url>
