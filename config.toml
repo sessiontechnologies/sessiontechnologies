@@ -15,14 +15,6 @@ DefaultContentLanguage = "en"
 
 [params]
 
-[params.homepage]
-  sections = [
-    { slider = "top" }, 
-    { simple = "wrapper" },
-    { grid = "services" },
-    { carousel = "technologies" },
-    { form = "contact" }]
-
   [params.meta]
     author = "Session Technologies"
     description = "Session Technologies - Claim your time back"

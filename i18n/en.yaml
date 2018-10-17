@@ -1,3 +1,6 @@
+- id: footer_message
+  translation: "Built with <a target='_blank' href='https://github.com/sessiontechnologies/ultimate-hugo'>Hugo Ultimate theme</a>"
+
 - id: slider_top_title
   translation: "Session Technologies"
 - id: slider_top_subtitle

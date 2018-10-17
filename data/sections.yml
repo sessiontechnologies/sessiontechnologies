@@ -1,3 +1,7 @@
+header:
+  logo: "img/logo.png"
+footer:
+  paragraph_i18n: footer_message
 slider:
   top:
     backgroundimage: /img/slider-bg.jpg
