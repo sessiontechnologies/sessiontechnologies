@@ -33,6 +33,20 @@
   </url>
   
   <url>
+    <loc>https://session.it/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://session.it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://session.it/es/"
+                />
+  </url>
+  
+  <url>
     <loc>https://session.it/es/tags/</loc>
     <priority>0</priority>
     <xhtml:link

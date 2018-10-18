@@ -11,5 +11,14 @@
 	<atom:link href="https://session.it/es/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Session Technologies</title>
+      <link>https://session.it/es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://session.it/es/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
