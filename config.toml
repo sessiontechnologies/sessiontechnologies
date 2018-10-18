@@ -13,20 +13,7 @@ DefaultContentLanguage = "en"
     languageCode = "es"
     weight = 2
 
-[params]
-
-  [params.meta]
-    author = "Session Technologies"
-    description = "Session Technologies - Claim your time back"
-
-  [params.integrations]
-    gacode = ""
-    jivoid = ""
-    privyid = ""
-
-  [params.header]
-    enable = true
-    logo = "img/logo.png"
-
-  [params.footer]
-    enable = false
+[params.integrations]
+  gacode = ""
+  jivoid = ""
+  privyid = ""
