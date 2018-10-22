@@ -1,7 +1,7 @@
 - id: meta_author
   translation: "Session Technologies"
 - id: meta_description
-  translation: "Session Technologies - Claim your time back"
+  translation: "Session Technologies - Helping machines to deal with humans"
 
 - id: footer_message
   translation: "Built with <a target='_blank' href='https://github.com/sessiontechnologies/ultimate-hugo'>Hugo Ultimate theme</a>"
@@ -9,7 +9,7 @@
 - id: slider_top_title
   translation: "Session Technologies"
 - id: slider_top_subtitle
-  translation: "Claim your time back"
+  translation: "Helping machines to deal with humans"
 - id: slider_top_paragraph
   translation: "In a globalizated and decentralized world, digital transformation is the key to emerge and succeed. <b>Session Technologies</b> brings experience and leadership in information technologies, allowing our customers to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
 
