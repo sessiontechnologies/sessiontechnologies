@@ -24,7 +24,7 @@
   translation: "About Session Technologies"
 - id: simple_about_subtitle
   translation: "We are a small, efficient and distributed team of professionals, covering a wide set of technologies and platforms and delivering the best solutions for our customers problems."
-- id: simple_about_paragraph:translation
+- id: simple_about_paragraph
   translation: ""
 
 - id: grid_services_title
@@ -51,7 +51,7 @@
 - id: grid_services_content_mkt_name
   translation: "Marketing operations"
 - id: grid_services_content_mkt_text
-  translation: "Implementing marketing operations based on data-driven performance indicators; providing all training and support needed to integrate marketing automation efficiently"          
+  translation: "Implementing marketing operations based on data-driven performance indicators; providing all training and support needed to integrate marketing automation efficiently"
 
 - id: carousel_technologies_title
   translation: "Our Technologies"
