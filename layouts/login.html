@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language }}">
+	<head>
+		{{ partial "head.html" . }}
+	</head>
+	<body>
+		{{ if $.Site.Data.sections.header.logo }}
+			{{ partial "header.html" . }}
+		{{ end }}
+
+		<h2>Login</h2>
+
+		<button class="login-button">Login now!</button>
+
+		<p>Go to <a href="/secret/">A secret page</a></p>
+
+		{{ if $.Site.Data.sections.footer }}
+			{{ partial "footer.html" $.Site.Data.sections.footer }}
+		{{ end }}
+
+		{{ partial "js-libs.html" . }}
+	</body>
+</html>

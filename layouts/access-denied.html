@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language }}">
+	<head>
+		{{ partial "head.html" . }}
+	</head>
+	<body>
+		{{ if $.Site.Data.sections.header.logo }}
+			{{ partial "header.html" . }}
+		{{ end }}
+
+		<h2>Access Denied!</h2>
+
+		<p>You don't have access to this page</p>
+
+		<p><a href="/">Back to login</a></p>
+
+		{{ if $.Site.Data.sections.footer }}
+			{{ partial "footer.html" $.Site.Data.sections.footer }}
+		{{ end }}
+
+		{{ partial "js-libs.html" . }}
+	</body>
+</html>

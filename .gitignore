@@ -4,3 +4,4 @@ node_modules/
 package-lock.json
 resources/
 public/
+static/js/main.js
