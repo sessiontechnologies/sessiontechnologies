@@ -13,6 +13,11 @@
 - id: slider_top_paragraph
   translation: "Our mission and commitment to customers is to minimise the friction between humans and machines (and vice-versa), by simplifying and rationalising processes with technology. From the simplest, personal, daily tasks like processing your email inbox to the most articulated developments and deployments, Session Technologies brings simple, alternative perspectives to problems, designing and implementing elegant, efficient solutions that will free your time."
 
+- id: simple_why_title
+  translation: "Why you need us"
+- id: simple_why_subtitle
+  translation: "In a globalized and decentralized world, digital transformation is the key to emerge and succeed. Session Technologies brings experience and leadership in information technologies, allowing our customers to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
+
 - id: simple_wrapper_title
   translation: "We ❤️ Open"
 - id: simple_wrapper_subtitle

@@ -15,6 +15,10 @@ simple:
     title_i18n: simple_wrapper_title
     subtitle_i18n: simple_wrapper_subtitle
     paragraph_i18n: simple_wrapper_paragraph
+  why:
+    image: /img/42.png
+    title_i18n: simple_why_title
+    subtitle_i18n: simple_why_subtitle
   about:
     image: /img/office-img.png
     title_i18n: simple_about_title
