@@ -31,27 +31,36 @@
   translation: "Our Services"
 - id: grid_services_subtitle
   translation: "Choose the combination of packages that work for you"
-- id: grid_services_content_chatops_name
-  translation: "ChatOps"
-- id: grid_services_content_chatops_text
-  translation: "Designing, building and deploying chat bots that your customers can use to interact"
 
 - id: grid_services_content_oss_name
   translation: "OSS green light"
 - id: grid_services_content_oss_text
-  translation: "The ultimate validation to consume or contribute to open source projects with peace of mind"
+  translation: "The ultimate validation consultancy package to consume and/or contribute to open source projects with peace of mind, from a technology, business and legal standpoint."
+
+- id: grid_services_content_chatops_name
+  translation: "ChatOps"
+- id: grid_services_content_chatops_text
+  translation: "Designing, building and deploying smart chat bots that connect customers with your services in a more efficient and streamlined fashion."
+
 - id: grid_services_content_process_name
   translation: "Process automation"
 - id: grid_services_content_process_text
-  translation: "Analysing and decomposing customer's processes to identify opportunities for automation and improvements"
+  translation: "Analysing and decomposing customer's processes to identify opportunities for automation and improvements."
+
 - id: grid_services_content_web_name
   translation: "Static websites"
 - id: grid_services_content_web_text
-  translation: "Designing and building static websites that are fast and secure, taking care of all aspects, from branding to coding"
+  translation: "We build beautiful websites, using static engines that ensure unparalleled speed and security, full customisation power and no-cost infrastructure."
+
 - id: grid_services_content_mkt_name
   translation: "Marketing operations"
 - id: grid_services_content_mkt_text
-  translation: "Implementing marketing operations based on data-driven performance indicators; providing all training and support needed to integrate marketing automation efficiently"
+  translation: "Implementing a wide rande of marketing operations, such as email campaigns, social channels management, lead nurturing and reporting."
+
+- id: grid_services_content_adhoc_name
+  translation: "Ad-hoc solutions"
+- id: grid_services_content_adhoc_text
+  translation: "Our team has extensive experience over a wide range of technologies and platforms; even if you can't find the package that is right for you, we'd be happy to help."
 
 - id: carousel_technologies_title
   translation: "Our Technologies"

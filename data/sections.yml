@@ -27,12 +27,12 @@ grid:
     title_i18n: grid_services_title
     subtitle_i18n: grid_services_subtitle
     content:
-      - ionicon: compass
-        name_i18n: grid_services_content_chatops_name
-        text_i18n: grid_services_content_chatops_text
       - ionicon: ribbon
         name_i18n: grid_services_content_oss_name
         text_i18n: grid_services_content_oss_text
+      - ionicon: compass
+        name_i18n: grid_services_content_chatops_name
+        text_i18n: grid_services_content_chatops_text
       - ionicon: git-network
         name_i18n: grid_services_content_process_name
         text_i18n: grid_services_content_process_text
@@ -42,6 +42,9 @@ grid:
       - ionicon: analytics
         name_i18n: grid_services_content_mkt_name
         text_i18n: grid_services_content_mkt_text
+      - ionicon: snow
+        name_i18n: grid_services_content_adhoc_name
+        text_i18n: grid_services_content_adhoc_text
 
 carousel:
   technologies:
