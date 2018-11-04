@@ -37,15 +37,15 @@
   translation: "Designing, building and deploying chat bots that your customers can use to interact"
 
 - id: grid_services_content_oss_name
-  translation: "Open source green light"
+  translation: "OSS green light"
 - id: grid_services_content_oss_text
   translation: "The ultimate validation to consume or contribute to open source projects with peace of mind"
 - id: grid_services_content_process_name
-  translation: "Process automation discovery"
+  translation: "Process automation"
 - id: grid_services_content_process_text
   translation: "Analysing and decomposing customer's processes to identify opportunities for automation and improvements"
 - id: grid_services_content_web_name
-  translation: "Fast and secure websites"
+  translation: "Static websites"
 - id: grid_services_content_web_text
   translation: "Designing and building static websites that are fast and secure, taking care of all aspects, from branding to coding"
 - id: grid_services_content_mkt_name
