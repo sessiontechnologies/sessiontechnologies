@@ -1,7 +1,7 @@
 - id: meta_author
   translation: "Session Technologies"
 - id: meta_description
-  translation: "Session Technologies - Helping machines to deal with humans"
+  translation: "Session Technologies - To help machines cope with humans"
 
 - id: footer_message
   translation: "Built with <a target='_blank' href='https://github.com/sessiontechnologies/ultimate-hugo'>Hugo Ultimate theme</a>"
@@ -9,16 +9,16 @@
 - id: slider_top_title
   translation: "Session Technologies"
 - id: slider_top_subtitle
-  translation: "Helping machines to deal with humans"
+  translation: "To help machines cope with humans"
 - id: slider_top_paragraph
-  translation: "In a globalizated and decentralized world, digital transformation is the key to emerge and succeed. <b>Session Technologies</b> brings experience and leadership in information technologies, allowing our customers to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
+  translation: "Our mission and commitment to customers is to minimise the friction between humans and machines (and vice-versa), by simplifying and rationalising processes with technology. From the simplest, personal, daily tasks like processing your email inbox to the most articulated developments and deployments, Session Technologies brings simple, alternative perspectives to problems, designing and implementing elegant, efficient solutions that will free your time."
 
 - id: simple_wrapper_title
-  translation: "5 steps to success"
+  translation: "We ❤️ Open"
 - id: simple_wrapper_subtitle
-  translation: "We are a small, efficient and distributed team of professionals, covering a wide set of technologies and platforms and delivering the best solutions for our customers problems."
+  translation: "Session Technologies is born and raised in open source communities; we consume, contribute, lead and advocate open source activities across different industries and technologies, on daily bases."
 - id: simple_wrapper_paragraph
-  translation: "With customers in United States, Spain, Italy and the Netherlends, Session Technologies provides an established approach to drive customer success: <b>gather requirements</b>, <b>plan</b>, <b>implement</b>, <b>measure</b> and <b>train</b>."
+  translation: "Every customer will be free to choose whether open sourcing their solutions and get a <b>20% discount</b>; additionally, open source grants you access to many popular free services and save money on fixed costs."
 
 - id: simple_about_title
   translation: "About Session Technologies"

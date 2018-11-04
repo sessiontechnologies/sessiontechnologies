@@ -11,7 +11,7 @@ slider:
 
 simple:
   wrapper:
-    image: /img/office-img.png
+    image: /img/open.png
     title_i18n: simple_wrapper_title
     subtitle_i18n: simple_wrapper_subtitle
     paragraph_i18n: simple_wrapper_paragraph
