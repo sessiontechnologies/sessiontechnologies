@@ -16,6 +16,7 @@ simple:
     subtitle_i18n: simple_wrapper_subtitle
     paragraph_i18n: simple_wrapper_paragraph
   why:
+    backgroundcolor: "#f6f6f8"
     image: /img/42.png
     title_i18n: simple_why_title
     subtitle_i18n: simple_why_subtitle
@@ -27,7 +28,6 @@ simple:
 
 grid:
   services:
-    backgroundcolor: "#f6f6f8"
     title_i18n: grid_services_title
     subtitle_i18n: grid_services_subtitle
     content:
