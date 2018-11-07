@@ -53,6 +53,7 @@ grid:
 
 carousel:
   technologies:
+    backgroundcolor: "#f6f6f8"
     title_i18n: carousel_technologies_title
     subtitle_i18n: carousel_technologies_subtitle
     logos:
