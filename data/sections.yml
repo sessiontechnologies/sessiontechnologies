@@ -10,16 +10,16 @@ slider:
     paragraph_i18n: slider_top_paragraph
 
 simple:
+  why:
+    image: /img/42.png
+    title_i18n: simple_why_title
+    subtitle_i18n: simple_why_subtitle
   wrapper:
+    backgroundcolor: "#f6f6f8"
     image: /img/open.png
     title_i18n: simple_wrapper_title
     subtitle_i18n: simple_wrapper_subtitle
     paragraph_i18n: simple_wrapper_paragraph
-  why:
-    backgroundcolor: "#f6f6f8"
-    image: /img/42.png
-    title_i18n: simple_why_title
-    subtitle_i18n: simple_why_subtitle
   about:
     imageside: "right"
     image: /img/office-img.png
