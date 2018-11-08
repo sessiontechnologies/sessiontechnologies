@@ -65,7 +65,7 @@
 - id: grid_services_content_mkt_name
   translation: "Marketing operations"
 - id: grid_services_content_mkt_text
-  translation: "Implementing a wide rande of marketing operations, such as email campaigns, social channels management, lead nurturing and reporting."
+  translation: "Implementing a wide range of marketing operations, such as email campaigns, social channels management, lead nurturing and reporting."
 
 - id: grid_services_content_adhoc_name
   translation: "Ad-hoc solutions"
