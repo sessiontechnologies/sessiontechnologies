@@ -18,12 +18,17 @@
 - id: simple_why_paragraph
   translation: "In a globalized and decentralized world, digital transformation is the key to emerge and succeed. Session Technologies brings experience and leadership in information technologies, allowing our customers to operate faster, smoother and with less human interaction, saving precious time that can be invested elsewhere."
 
-- id: simple_wrapper_title
+- id: simple_oss_title
   translation: "We ❤️ Open"
-- id: simple_wrapper_subtitle
+- id: simple_oss_subtitle
   translation: "Session Technologies is born and raised in open source communities; we consume, contribute, lead and advocate open source activities across different industries and technologies, on daily bases."
-- id: simple_wrapper_paragraph
+- id: simple_oss_paragraph
   translation: "Every customer will be free to choose whether open sourcing their solutions and get a <b>20% discount</b>; additionally, open source grants you access to many popular free services and save money on fixed costs."
+
+- id: simple_polyglot_title
+  translation: "Polyglot and decentralised"
+- id: simple_polyglot_paragraph
+  translation: "Our team speaks many languages (English, Spanish, Italian, Dutch, Hebrew, Catalan and more) and is distributed across Europe (Barcelona, Amsterdam, Rome, London, Lisbon and others)."
 
 - id: simple_about_title
   translation: "About Session Technologies"

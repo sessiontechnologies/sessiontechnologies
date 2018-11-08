@@ -14,13 +14,17 @@ simple:
     image: /img/42.png
     title_i18n: simple_why_title
     paragraph_i18n: simple_why_paragraph
-  wrapper:
+  oss:
     imageside: "right"
     backgroundcolor: "#f6f6f8"
     image: /img/open.png
-    title_i18n: simple_wrapper_title
-    subtitle_i18n: simple_wrapper_subtitle
-    paragraph_i18n: simple_wrapper_paragraph
+    title_i18n: simple_oss_title
+    subtitle_i18n: simple_oss_subtitle
+    paragraph_i18n: simple_oss_paragraph
+  polyglot:
+    image: /img/polyglot.png
+    title_i18n: simple_polyglot_title
+    paragraph_i18n: simple_polyglot_paragraph
   about:
     image: /img/office-img.png
     title_i18n: simple_about_title
@@ -29,6 +33,7 @@ simple:
 
 grid:
   services:
+    backgroundcolor: "#f6f6f8"
     title_i18n: grid_services_title
     subtitle_i18n: grid_services_subtitle
     content:
@@ -53,7 +58,6 @@ grid:
 
 carousel:
   technologies:
-    backgroundcolor: "#f6f6f8"
     title_i18n: carousel_technologies_title
     subtitle_i18n: carousel_technologies_subtitle
     logos:

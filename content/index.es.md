@@ -1,5 +1,5 @@
 +++
 title = "Session Technologies"
 id = "index"
-sections = "slider|top,simple|wrapper,grid|services,carousel|technologies,form|contact"
+sections = "slider|top,simple|oss,simple|polyglot,grid|services,carousel|technologies,form|contact"
 +++
