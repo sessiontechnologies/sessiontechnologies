@@ -4,6 +4,11 @@ baseURL = "https://session.it/"
 theme = "ultimate-hugo"
 staticDir = "static"
 
+recapcha = "6LenXYgUAAAAAFt1Y8i4NHvtoXwEFV0sy1nqcpOK"
+gacode = ""
+jivoid = ""
+privyid = ""
+
 DefaultContentLanguage = "en"
 [languages]
   [languages.en]
@@ -12,11 +17,3 @@ DefaultContentLanguage = "en"
   [languages.es]
     languageCode = "es"
     weight = 2
-
-[params.integrations]
-  gacode = ""
-  jivoid = ""
-  privyid = ""
-  recapcha = "6LenXYgUAAAAAFt1Y8i4NHvtoXwEFV0sy1nqcpOK"
-
-  
