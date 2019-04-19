@@ -3,13 +3,8 @@ title = "Session Technologies"
 baseURL = "https://session.it/"
 theme = "ultimate-hugo"
 staticDir = "static"
-
-recapcha = "6LenXYgUAAAAAFt1Y8i4NHvtoXwEFV0sy1nqcpOK"
-gacode = ""
-jivoid = ""
-privyid = ""
-
 DefaultContentLanguage = "en"
+
 [languages]
   [languages.en]
     languageCode = "en-us"
@@ -17,3 +12,9 @@ DefaultContentLanguage = "en"
   [languages.es]
     languageCode = "es"
     weight = 2
+
+[params]
+recapcha = "6LenXYgUAAAAAFt1Y8i4NHvtoXwEFV0sy1nqcpOK"
+# gacode = ""
+# jivoid = ""
+# privyid = ""
