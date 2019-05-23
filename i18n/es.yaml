@@ -11,7 +11,7 @@
 - id: slider_top_subtitle
   translation: "Ayudando las maquinas a soportar los humanos"
 - id: slider_top_paragraph
-  translation: "Nuestro objectivo es de minimizar las fricciones entre humanos y maquinas, simplificando y razionalizando los procesos empresariales con tecnologias a medida. Desde la mas simple, personal tarea diaria, como leer el correo electronico, hasta los despluieges mas complejos y articulados, Session Technologies entrega una vasta gama de servicios y soluciones que auydan el cliente a acercarse a la tecnologia. Y lo contrario tambien."
+  translation: "Nuestro objectivo es de minimizar las fricciones entre humanos y maquinas, simplificando y racionalizando los procesos empresariales con tecnologias a medida. Desde la mas simple, personal tarea diaria, como leer el correo electronico, hasta los despliegues mas complejos y articulados, Session Technologies entrega una vasta gama de servicios y soluciones que ayudan al cliente a acercarse a la tecnologia. Y lo contrario tambien."
 
 - id: simple_why_title
   translation: "Porque nos necesita"
@@ -23,12 +23,12 @@
 - id: simple_oss_subtitle
   translation: "Session Technologies ha nacido y crecido en las comunidades open source; consumimos, contribuimos, lideramos y abogamos proyectos open source aplicados a diferentes industrias y tecnologias."
 - id: simple_oss_paragraph
-  translation: "Cada cliente puede elegir de abrir el codigo fuente de sus soluciones y obtener un <b>descuento del 20%</b>; ademas, open source permite acceder a servicios de infrastructura online gratis, bajando los costes fijos del cliente."
+  translation: "Cada cliente puede elegir abrir el codigo fuente de sus soluciones y obtener un <b>descuento del 20%</b>; ademas, open source permite acceder a servicios de infraestructura online gratis, bajando los costes fijos del cliente."
 
 - id: simple_polyglot_title
   translation: "Políglotos y distribuidos"
 - id: simple_polyglot_paragraph
-  translation: "Nuestro equipo habla muchos idiomas (Ingles, Castellano, Catalan, Italiano, Olandes, Ebraico y mas) y esta distribuido en Europa (Barcelona, Amsterdam, Roma, Londres, Lisboa y otras)."
+  translation: "Nuestro equipo habla muchos idiomas (Ingles, Castellano, Catalan, Italiano, Holandes, Ebraico y mas) y esta distribuido en Europa (Barcelona, Amsterdam, Roma, Londres, Lisboa y otras)."
 
 - id: grid_services_title
   translation: "Nuestros Servicios"
@@ -43,27 +43,27 @@
 - id: grid_services_content_chatops_name
   translation: "ChatOps"
 - id: grid_services_content_chatops_text
-  translation: "Diseñar, desarrolar y operar chat bots inteligentes que connectan vuestros servicios informaticos con el cliente de manera eficiente."
+  translation: "Diseñar, desarrollar y operar chat bots inteligentes que connectan vuestros servicios informaticos con el cliente de manera eficiente."
 
 - id: grid_services_content_process_name
-  translation: "Automacion de procesos"
+  translation: "Automatización de procesos"
 - id: grid_services_content_process_text
-  translation: "Analisis y decomposicion de los proceses empresariales del cliente, identificando oportunidades para automacion y mejorias."
+  translation: "Analisis y decomposicion de los procesos empresariales del cliente, identificando oportunidades para automacion y mejorias."
 
 - id: grid_services_content_web_name
   translation: "Web Responsive"
 - id: grid_services_content_web_text
-  translation: "Entregamos paginas web preciosas, unilizando tecnologias que garantizan seguridad y rapidez inigualable, personalizacion y ningun coste de hosting."
+  translation: "Entregamos paginas web preciosas, utilizando tecnologias que garantizan seguridad y rapidez inigualable, personalizacion y ningun coste de hosting."
 
 - id: grid_services_content_mkt_name
   translation: "Operaciones de marketing"
 - id: grid_services_content_mkt_text
-  translation: "Entregamos una vasta gama de operaciones y soporte de marketing, como campañas email, gestion de canales social, gestion de leads y reports."
+  translation: "Entregamos una vasta gama de operaciones y soporte de marketing, como campañas email, gestion de redes sociales, gestion de leads y reports."
 
 - id: grid_services_content_adhoc_name
   translation: "Solucciones ad-hoc"
 - id: grid_services_content_adhoc_text
-  translation: "Nuestro equipo tiene experencia sobre muchas tecnologias y plataformas; aunque no encuentras el servicio que necesitas, nos encantaria ayudarte."
+  translation: "Nuestro equipo tiene experencia sobre muchas tecnologias y plataformas; aunque no encuentres el servicio que necesitas, nos encantaria ayudarte."
 
 - id: carousel_technologies_title
   translation: "Nuestras tecnologias"
