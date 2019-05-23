@@ -10,7 +10,7 @@ install:
 script:
   - npm i html-validator-cli -g
   - hugo server &
-  - html-validator http://localhost:1313
+  # - html-validator http://localhost:1313
   - hugo
 
 deploy:
