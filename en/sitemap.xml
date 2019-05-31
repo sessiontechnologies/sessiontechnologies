@@ -34,16 +34,10 @@
   
   <url>
     <loc>https://session.it/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://session.it/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://session.it/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://session.it/join/</loc>
   </url>
   
   <url>

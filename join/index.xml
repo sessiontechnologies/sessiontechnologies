@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Session Technologies</title>
-    <link>https://session.it/es/</link>
+    <link>https://session.it/join/</link>
     <description>Recent content on Session Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
+    <language>en-us</language>
     <copyright>Session Technologies SL</copyright>
     
-	<atom:link href="https://session.it/es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://session.it/join/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
