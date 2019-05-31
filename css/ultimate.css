@@ -1,4 +1,15 @@
 /*--
+  Page content
+--*/
+.page-content {
+  display: block;
+  flex-wrap: wrap;
+  margin-top: 2%;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+/*--
   General styling
 --*/
 
