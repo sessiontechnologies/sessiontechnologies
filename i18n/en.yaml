@@ -13,6 +13,13 @@
 - id: slider_top_paragraph
   translation: "Our mission is to minimise the friction between humans and machines, by simplifying and rationalising processes with technology. From the simplest, personal, daily tasks, like processing your email inbox, to the most articulated developments and deployments, Session Technologies delivers a wide range of services and solutions that help customers getting closer to technology. And the opposite too."
 
+- id: slider_join_title
+  translation: "Join Session"
+- id: slider_join_subtitle
+  translation: "To help machines cope with humans"
+- id: slider_join_paragraph
+  translation: "Session Technologies is a young consulting firm with roots in Barcelona and Amsterdam, that helps customers with their open source technologies adoption, by delivering different consultancy packages."
+
 - id: simple_why_title
   translation: "Why you need us"
 - id: simple_why_paragraph

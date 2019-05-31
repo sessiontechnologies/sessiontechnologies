@@ -8,6 +8,11 @@ slider:
     title_i18n: slider_top_title
     subtitle_i18n: slider_top_subtitle
     paragraph_i18n: slider_top_paragraph
+  join:
+    backgroundimage: /img/slider-bg.jpg
+    title_i18n: slider_join_title
+    subtitle_i18n: slider_join_subtitle
+    paragraph_i18n: slider_join_paragraph
 
 simple:
   why:

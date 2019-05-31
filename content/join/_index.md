@@ -1,16 +1,10 @@
 +++
 title = "Session Technologies"
 id = "join"
-sections = "slider|top"
+sections = "slider|join"
 type = "page"
 layout = "single"
 +++
-
-# Join Us
-
-Session Technologies is a young consulting firm with roots in Barcelona and Amsterdam, that helps customers with their open source technologies adoption, by delivering different consultancy packages, check our [homepage](/) for more info.
-
-Would you like to join Session Technologies?
 
 ## Why we’re different
 There are many IT consulting firms out there, of different sizes, that aim to deliver asset-driven solutions; Session is different because:
