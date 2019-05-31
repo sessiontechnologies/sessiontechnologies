@@ -28,6 +28,8 @@ Below, some of the perks of working at Session Technologies.
 
 <br/>
 
-[Fill in our self-assessment form](https://docs.google.com/forms/d/e/1FAIpQLSfw_xljKbAJ2IDHl0uZqj_46lJL0zCUM0jAh9R7bGr1uNSNDg/viewform?usp=sf_link) and we will get back to you in 2 (business) days; we are looking forward to start working with you!
+**[Fill in our self-assessment form](https://docs.google.com/forms/d/e/1FAIpQLSfw_xljKbAJ2IDHl0uZqj_46lJL0zCUM0jAh9R7bGr1uNSNDg/viewform?usp=sf_link)** to know more about the technologies we use, we will get back to you in 2 (business) days.
+
+Looking forward to start working with you!
 
 <br/>
