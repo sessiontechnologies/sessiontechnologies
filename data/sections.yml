@@ -65,11 +65,11 @@ carousel:
       - image: /img/logos/technologies/angular.png
       - image: /img/logos/technologies/firebase.png
       - image: /img/logos/technologies/clojure.png
+      - image: /img/logos/technologies/gitlab.png
       - image: /img/logos/technologies/github.png
       - image: /img/logos/technologies/alfresco.png
       - image: /img/logos/technologies/aws.png
       - image: /img/logos/technologies/hugo.png
-      - image: /img/logos/technologies/travisci.png
       - image: /img/logos/technologies/hubspot.png
 
 # form:
