@@ -30,7 +30,6 @@ simple:
     title_i18n: simple_about_title
     subtitle_i18n: simple_about_subtitle
     paragraph_i18n: simple_about_paragraph
-
 grid:
   services:
     backgroundcolor: "#f6f6f8"
