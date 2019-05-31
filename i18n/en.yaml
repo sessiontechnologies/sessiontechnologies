@@ -11,7 +11,7 @@
 - id: slider_top_subtitle
   translation: "To help machines cope with humans"
 - id: slider_top_paragraph
-  translation: "Our mission is to minimise the friction between humans and machines, by simplifying and rationalising processes with technology. From the simplest, personal, daily tasks, like processing your email inbox, to the most articulated developments and deployments, Session Technologies delivers a wide range of services and solutions that help customers getting closer to technology. And the opposite too."
+  translation: "Our mission is to minimise the friction between humans and machines, by simplifying and rationalising processes with technology. Strongly relying on open source technology and culture, Session Technologies delivers a wide range of services and solutions that help customers getting closer to technology. And the opposite too."
 
 - id: slider_join_title
   translation: "Join Session"
@@ -29,13 +29,11 @@
   translation: "We ❤️ Open"
 - id: simple_oss_subtitle
   translation: "Session Technologies is born and raised in open source communities; we consume, contribute, lead and advocate open source activities across different industries and technologies, on daily bases."
-- id: simple_oss_paragraph
-  translation: "Every customer will be free to choose whether open sourcing their solutions and get a <b>20% discount</b>."
 
 - id: simple_polyglot_title
   translation: "Polyglot and distributed"
 - id: simple_polyglot_paragraph
-  translation: "Our team speaks many languages (English, Spanish, Italian, Dutch, Hebrew, Catalan and more) and is distributed across Europe (Barcelona, Amsterdam, Rome, London, Lisbon and others)."
+  translation: "Our team speaks many languages (English, Spanish, Italian, Dutch, Catalan and more) and the network of consultants is distributed across Europe (Barcelona, Amsterdam, Rome, London, Lisbon and others)."
 
 - id: simple_about_title
   translation: "About Session Technologies"
