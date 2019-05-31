@@ -71,20 +71,20 @@ carousel:
       - image: /img/logos/technologies/googlesuite.png
       - image: /img/logos/technologies/hubspot.png
 
-form:
-  contact:
-    backgroundimage: img/form-bg.jpg
-    title_i18n: form_contact_title
-    subtitle_i18n: form_contact_subtitle
-    success_i18n: form_contact_success
-    success_text_i18n: form_contact_success_text
-    close_i18n: form_contact_close
-    action: "https://docs.google.com/forms/d/e/1FAIpQLScn_78SYTd_c23mzdKjhc7SQt_lTyw9xQh_T6LUuOWYMOI_Kw/formResponse"
-    name_i18n: form_contact_name
-    nameid: entry.94223958
-    email_i18n: form_contact_email
-    emailid: entry.874329450
-    message_i18n: form_contact_message
-    messageid: entry.1059231275
-    button_i18n: form_contact_button
-    recapcha: 6LenXYgUAAAAAFt1Y8i4NHvtoXwEFV0sy1nqcpOK
+# form:
+#   contact:
+#     backgroundimage: img/form-bg.jpg
+#     title_i18n: form_contact_title
+#     subtitle_i18n: form_contact_subtitle
+#     success_i18n: form_contact_success
+#     success_text_i18n: form_contact_success_text
+#     close_i18n: form_contact_close
+#     action: "https://docs.google.com/forms/d/e/1FAIpQLScn_78SYTd_c23mzdKjhc7SQt_lTyw9xQh_T6LUuOWYMOI_Kw/formResponse"
+#     name_i18n: form_contact_name
+#     nameid: entry.94223958
+#     email_i18n: form_contact_email
+#     emailid: entry.874329450
+#     message_i18n: form_contact_message
+#     messageid: entry.1059231275
+#     button_i18n: form_contact_button
+#     recapcha: 6LenXYgUAAAAAFt1Y8i4NHvtoXwEFV0sy1nqcpOK

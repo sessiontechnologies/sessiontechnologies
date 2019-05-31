@@ -4,7 +4,7 @@
   translation: "Session Technologies - To help machines cope with humans"
 
 - id: footer_message
-  translation: "Built with <a target='_blank' href='https://github.com/sessiontechnologies/ultimate-hugo'>Hugo Ultimate theme</a>"
+  translation: Come and say <a target='_blank' href='mailto:hi@session.it'>hi@session.it</a>"
 
 - id: slider_top_title
   translation: "Session Technologies"
