@@ -5,8 +5,21 @@
   display: block;
   flex-wrap: wrap;
   margin-top: 2%;
-  margin-right: 20%;
+  margin-right: 30%;
   margin-left: 20%;
+}
+
+.page-content h2 {
+  margin-top: 30px;
+}
+
+.page-content p {
+  margin: 5px;
+}
+
+.page-content ul {
+  list-style-type: upper-roman;
+  margin-left: 30px;
 }
 
 /*--
