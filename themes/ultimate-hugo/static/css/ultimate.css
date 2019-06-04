@@ -169,6 +169,16 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 1.8;
 }
 
+.profile-pic {
+  border-radius: 90%;
+  overflow: hidden;
+  display: inline;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  height: 100%;
+}
+
 /*--
 	Form Section
 --*/

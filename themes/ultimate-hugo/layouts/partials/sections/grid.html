@@ -26,7 +26,7 @@
       <div class="col-sm-{{ .span_vertical }} col-md-{{ $.span_wide }}">
         <div class="grid-item">
           {{ if .image }}
-            <img src="{{ .image }}"/>
+            <img class="profile-pic" src="{{ .image }}"/>
           {{ else }}
             <ion-icon name="{{ .ionicon }}"></ion-icon>
           {{ end }}
