@@ -1,0 +1,38 @@
+<!-- START head.html -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="{{ .Title }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Metadata -->
+<meta name="author" content="{{ i18n "meta_author" }}">
+<meta property="og:description" content="{{ i18n "meta_description" }}">
+<meta property="og:url" content="{{ .Site.BaseURL }}">
+<meta property="og:title" content="{{ .Site.Title }}">
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.header.logo }}">
+<meta property="og:locale" content="{{ .Site.LanguageCode }}">
+
+<meta name="twitter:title" content="{{ .Site.Title }}">
+<meta name="twitter:description" content="{{ i18n "meta_description" }}">
+<meta name="twitter:card" content="summary"> 
+
+<meta property="st:title" content="{{ .Site.Title }}">
+<meta property="st:image" content="{{ .Site.BaseURL }}{{ .Site.Params.header.logo }}">
+
+<title>{{ .Title }}</title>
+
+{{ .Hugo.Generator }}
+
+<!-- Owl Carousel v2.3.4 -->
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/lib/owl.carousel.css" />
+<!-- Bootstrap v4.1.3 (https://getbootstrap.com/) -->
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/lib/bootstrap.min.css" />
+<!-- Ionicons, v4.4.6 -->
+<link rel="stylesheet" href="https://unpkg.com/ionicons@4.4.6/dist/css/ionicons.min.css" />
+<!-- animate.css -http://daneden.me/animate - 3.7.0 -->
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/lib/animate.css" />
+<!-- Custom CSS -->
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/ultimate.css" />
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
+<!-- END head.html -->

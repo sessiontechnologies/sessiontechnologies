@@ -1,0 +1,85 @@
+# NOTE! This is a sample file, it's only here for documentation purposes.
+
+- id: meta_author
+  translation: "Author"
+- id: meta_description
+  translation: "Description"
+
+- id: footer_message
+  translation: "Come and say <a target='_blank' href='mailto:hi@session.it'>hi@session.it</a>
+
+- id: slider1_title
+  translation: "Title"
+- id: slider1_subtitle
+  translation: "Subtitle"
+- id: slider1_paragraph
+  translation: "Paragraph!"
+
+- id: simple1_title
+  translation: "Simple1 Title"
+- id: simple1_subtitle
+  translation: "Simple1 subsitle"
+- id: simple1_paragraph
+  translation: "Simple1 paragraph."
+
+- id: simple2_title
+  translation: "Simple2 Title"
+- id: simple2_subtitle
+  translation: "Simple2 subsitle"
+- id: simple2_paragraph
+  translation: "Simple2 paragraph."
+
+- id: grid1_title
+  translation: "Grid Title"
+- id: grid1_subtitle
+  translation: "Grid subtitle"
+- id: grid1_item1_name
+  translation: "Grid item 1"
+- id: grid1_item1_text
+  translation: "Grid item 1 text"
+- id: grid1_item2_name
+  translation: "Grid item 2"
+- id: grid1_item2_text
+  translation: "Grid item 2 text"
+- id: grid1_item3_name
+  translation: "Grid item 3"
+- id: grid1_item3_text
+  translation: "Grid item 3 text"
+- id: grid1_item4_name
+  translation: "Grid item 4"
+- id: grid1_item4_text
+  translation: "Grid item 4 text"
+- id: grid1_item5_name
+  translation: "Grid item 5"
+- id: grid1_item5_text
+  translation: "Grid item 5 text"
+
+- id: carousel1_title
+  translation: "Carousel Title"
+- id: carousel1_subtitle
+  translation: "Carousel Subtitle"
+
+- id: form1_success
+  translation: "Form submitted!"
+- id: form1_text
+  translation: "Thanks for submitting the form; we'll get back to you shortly."
+- id: form1_close
+  translation: "Close"
+
+- id: form1_title
+  translation: "Drop us a note"
+- id: form1_subtitle
+  translation: "Tell us more about you and we'll get back with great ideas!"
+- id: form1_name
+  translation: "Your name"
+- id: form1_email
+  translation: "Your email"
+- id: form1_message
+  translation: "Your message"
+- id: form1_button
+  translation: "Send message"
+
+- id: 404_message
+  translation: "Ouch, the page you're looking for does not exist. Please, go back to the"
+- id: homepage
+  translation: "homepage"

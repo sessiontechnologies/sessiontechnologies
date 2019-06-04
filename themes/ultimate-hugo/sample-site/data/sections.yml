@@ -1,0 +1,67 @@
+# NOTE! This is a sample file, it's only here for documentation purposes.
+
+header:
+  logo: img/logo.png
+
+footer:
+  paragraph_i18n: footer_message
+
+slider:
+  slider1:
+    backgroundimage: /img/slider-bg.jpg
+    title_i18n: slider_top_title
+    subtitle_i18n: slider1_subtitle
+    paragraph_i18n: slider1_paragraph
+
+simple:
+  simple1:
+    image: /img/office-img.png
+    title_i18n: simple1_title
+    subtitle_i18n: simple1_subtitle
+    paragraph_i18n: simple1_paragraph
+
+grid:
+  grid1:
+    backgroundcolor: "#f6f6f8"
+    title_i18n: grid1_title
+    subtitle_i18n: grid1_subtitle
+    content:
+      - ionicon: compass
+        name_i18n: grid1_item1_name
+        text_i18n: grid1_item1_text
+      - ionicon: ribbon
+        name_i18n: grid1_item2_name
+        text_i18n: grid1_item2_text
+      - ionicon: git-network
+        name_i18n: grid1_item3_name
+        text_i18n: grid1_item3_text
+      - ionicon: fastforward
+        name_i18n: grid1_item4_name
+        text_i18n: grid1_item4_text
+      - ionicon: analytics
+        name_i18n: grid1_item5_name
+        text_i18n: grid1_item5_text
+
+carousel:
+  carousel1:
+    title_i18n: carousel1_title
+    subtitle_i18n: carousel1_subtitle
+    logos:
+      - image: img/logo.png
+
+form:
+  form1:
+    backgroundimage: img/form-bg.jpg
+    title_i18n: form1_title
+    subtitle_i18n: form1_subtitle
+    success_i18n: form1_success
+    success_text_i18n: form1_success_text
+    close_i18n: form_contact_close
+    action: ""
+    name_i18n: form1_name
+    nameid: 
+    email_i18n: form1_email
+    emailid: 
+    message_i18n: form1_message
+    messageid: 
+    button_i18n: form1_button

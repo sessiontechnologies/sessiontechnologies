@@ -1,0 +1,55 @@
+<!-- START js-libs.html -->
+
+<!-- jQuery v3.3.1 -->
+<script src="{{ .Site.BaseURL }}js/lib/jquery.min.js"></script>
+<!-- Bootstrap v4.1.3 (https://getbootstrap.com/) -->
+<script src="{{ .Site.BaseURL }}js/lib/bootstrap.min.js"></script>
+<!-- Ion Icons v4.4.6 (https://ionicons.com) -->
+<script src="https://unpkg.com/ionicons@4.4.6/dist/ionicons.js"></script>
+<!-- Owl Carousel v2.3.4 -->
+<script src="{{ .Site.BaseURL }}js/lib/owl.carousel.min.js"></script>
+<!-- Waypoints - 4.0.1 -->
+<script src="{{ .Site.BaseURL }}js/lib/jquery.waypoints.min.js"></script>
+<!-- jquery.counterup.min.js 2.1.0 -->
+<script src="{{ .Site.BaseURL }}js/lib/jquery.counterup.min.js"></script>
+<!-- Node JS logic -->
+<script src="{{ .Site.BaseURL }}js/main.js"></script>
+<!-- Custom JS -->
+<script src="{{ .Site.BaseURL }}js/ultimate.js"></script>
+
+<!-- Google Analytics -->
+{{ if isset .Site.Params "gacode" }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.gacode }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{ .Site.Params.gacode }}');
+  </script>
+{{ end }}
+<!-- End Google Analytics -->
+
+<!-- JIVO Chat -->
+{{ if isset .Site.Params "jivoid" }}
+  <script>
+  (function(){ var widget_id = '{{ .Site.Params.jivoid }}';var d=document;var w=window;function l(){
+  var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+{{ end }}
+<!-- End JIVO Chat -->
+
+<!-- Privy - https://dashboard.privy.com/settings/widget -->
+{{ if isset .Site.Params "privyid" }}
+  <script type='text/javascript'> var _d_site = _d_site || '{{ .Site.Params.privyid }}'; </script>
+  <script src='https://widget.privy.com/assets/widget.js'></script>
+{{ end }}
+
+{{ if isset .Site.Params "recapcha" }}
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+{{ end }}
+
+
+
+<!-- End Privy -->
+
+<!-- END js-libs.html -->
