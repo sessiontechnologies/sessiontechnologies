@@ -13,7 +13,9 @@
         <div class="block">
           <div class="section-title">
             <h2>{{ i18n .title_i18n }}</h2>
-            <p>{{ i18n .subtitle_i18n }}</p>
+            {{ if .grid_team_subtitle }}
+              <p>{{ i18n .subtitle_i18n }}</p>
+            {{ end }}
           </div>
         </div>
       </div>
@@ -21,9 +23,13 @@
 
     <div class="row">
       {{ range .content }}
-      <div class="col-sm-6 col-md-4">
+      <div class="col-sm-{{ .span_vertical }} col-md-{{ $.span_wide }}">
         <div class="grid-item">
-          <ion-icon name="{{ .ionicon }}"></ion-icon>
+          {{ if .image }}
+            <img src="{{ .image }}"/>
+          {{ else }}
+            <ion-icon name="{{ .ionicon }}"></ion-icon>
+          {{ end }}
           <h4>{{ i18n .name_i18n }}</h4>
           <p>{{ i18n .text_i18n }}</p>
         </div>
