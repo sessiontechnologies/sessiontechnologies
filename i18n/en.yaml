@@ -11,7 +11,7 @@
 - id: slider_top_subtitle
   translation: "To help machines cope with humans"
 - id: slider_top_paragraph
-  translation: "Our mission is to minimise the friction between humans and machines, by simplifying and rationalising processes with technology. Strongly relying on open source technology and culture, Session Technologies delivers a wide range of services and solutions that help customers getting closer to technology. And the opposite too."
+  translation: "Our mission is to minimise frictions between humans and machines, by simplifying and rationalising processes with technology. Strongly relying on open source technologies and culture, Session Technologies delivers a wide range of services and solutions that help customers getting closer to technology. And the opposite too."
 
 - id: slider_join_title
   translation: "Join Session"
@@ -45,7 +45,7 @@
 - id: grid_services_title
   translation: "Our Services"
 - id: grid_services_subtitle
-  translation: "Choose the combination of packages that work for you"
+  translation: "This is what Session can do for you, in a nutshell"
 
 - id: grid_services_content_oss_name
   translation: "OSS green light"
