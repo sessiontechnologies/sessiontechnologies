@@ -23,7 +23,7 @@ Below, some of the perks of working at Session Technologies.
 - **Strong engineering culture** across the board: everyone, including the CEO, can and will code review you and help you grow as a technical person
 - Working with a **network of collaborators across Europe** (Amsterdam, London, Lisbon, Rome and others), with a high level of **trust and cohesiveness** within our professional network
 - Up to 20% time dedicated to **research and development**
-- **Access to [Spaces co-working locations worldwide](http://spacesworks.com/)**: every Session team member can access any Spaces co-working space around the world and meet with colleagues to work together
+- **Access to <a href="http://spacesworks.com" target="_blank">Spaces co-working locations worldwide</a>**: every Session team member can access any Spaces co-working space around the world and meet with colleagues to work together
 - **Working location/hours full flexibility**: can work from home or any other location worldwide, at any time of the day and week, as long as it matches with team and project necessities
 - Be a **key player in the team since the beginning** with visibility on the entire delivery process
 
