@@ -84,11 +84,11 @@
 - id: grid_team_carlo_name
   translation: "Carlo Sciolla"
 - id: grid_team_carlo_text
-  translation: "Passionate software engineer and agilist, proudly involved with Open Source world since forever. Lately focusing on scalable architectures, agile delivery models and sustaininable engineering cultures. Proud Clojure developer, conference organizer and public speaker."
+  translation: "Passionate software engineer and agilist, proudly involved with Open Source world since forever. Lately focusing on scalable architectures, agile delivery models and sustaininable engineering cultures. Proud Clojure developer, conference organizer and public speaker. Father of 1, located in Amsterdam, the Netherlands."
 - id: grid_team_mao_name
   translation: "Maurizio (mao) Pillitu"
 - id: grid_team_mao_text
-  translation: "Born and raised in Open Source, from the first contributions to Apache Cocoon in the early 2000s to Devops Director of FINOS, the Fintech Open Source Foundation. Agile practitioner and advocate, with lots of background on Application Lifecycle Management. Former Alfresco DevOps Team Lead and occasional event speaker/organizer."
+  translation: "Born and raised in Open Source, from the first contributions to Apache Cocoon in the early 2000s to Devops Director of FINOS, the Fintech Open Source Foundation. Agile practitioner and advocate, with lots of background on Application Lifecycle Management. Former Alfresco DevOps Team Lead and occasional event speaker/organizer. Father of 1, located in Barcelona."
 
 - id: carousel_technologies_title
   translation: "Our Technologies"
