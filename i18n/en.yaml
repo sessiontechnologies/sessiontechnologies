@@ -77,6 +77,19 @@
 - id: grid_services_content_adhoc_text
   translation: "Our team has extensive experience over a wide range of technologies and platforms; even if you can't find the package that is right for you, we'd be happy to help."
 
+- id: grid_team_title
+  translation: "Meet the founders"
+- id: grid_team_subtitle
+  translation: "Blah"
+- id: grid_team_carlo_name
+  translation: "Carlo Sciolla"
+- id: grid_team_carlo_text
+  translation: "Passionate software engineer and agilist, proudly involved with Open Source world since forever. Lately focusing on scalable architectures, agile delivery models and sustaininable engineering cultures. Proud Clojure developer, conference organizer and public speaker."
+- id: grid_team_mao_name
+  translation: "Maurizio (mao) Pillitu"
+- id: grid_team_mao_text
+  translation: "Born and raised in Open Source, from the first contributions to Apache Cocoon in the early 2000s to Devops Director of FINOS, the Fintech Open Source Foundation. Agile practitioner and advocate, with lots of background on Application Lifecycle Management. Former Alfresco DevOps Team Lead and occasional event speaker/organizer."
+
 - id: carousel_technologies_title
   translation: "Our Technologies"
 - id: carousel_technologies_subtitle

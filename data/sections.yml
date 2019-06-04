@@ -37,9 +37,10 @@ simple:
     paragraph_i18n: simple_about_paragraph
 grid:
   services:
-    backgroundcolor: "#f6f6f8"
     title_i18n: grid_services_title
     subtitle_i18n: grid_services_subtitle
+    span_wide: 4
+    span_vertical: 6
     content:
       - ionicon: ribbon
         name_i18n: grid_services_content_oss_name
@@ -56,6 +57,23 @@ grid:
       - ionicon: snow
         name_i18n: grid_services_content_adhoc_name
         text_i18n: grid_services_content_adhoc_text
+  team:
+    backgroundcolor: "#f6f6f8"
+    title_i18n: grid_team_title
+    # subtitle_i18n: grid_team_subtitle
+    span_wide: 6
+    span_vertical: 12
+    content:
+      - ionicon: ribbon
+        name_i18n: grid_team_carlo_name
+        text_i18n: grid_team_carlo_text
+        image: https://media.licdn.com/dms/image/C4E03AQFlAl8wFGq57w/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=2lXiW-nPZwTRWvz2rL8ASi0mKRutn0A_Z_5hGvFrxUg
+        link: https://www.linkedin.com/in/carlosciolla/
+      - ionicon: ribbon
+        name_i18n: grid_team_mao_name
+        text_i18n: grid_team_mao_text
+        image: https://media.licdn.com/dms/image/C5603AQH81shNWjeaxg/profile-displayphoto-shrink_200_200/0?e=1565222400&v=beta&t=-cb3ncPa65T_98VgVRjQlBLVW2gAaS6H_sZmck3MWaQ
+        link: https://www.linkedin.com/in/mpillitu
 
 carousel:
   technologies:
