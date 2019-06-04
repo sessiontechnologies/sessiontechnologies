@@ -53,9 +53,6 @@ grid:
       - ionicon: fastforward
         name_i18n: grid_services_content_web_name
         text_i18n: grid_services_content_web_text
-      - ionicon: analytics
-        name_i18n: grid_services_content_mkt_name
-        text_i18n: grid_services_content_mkt_text
       - ionicon: snow
         name_i18n: grid_services_content_adhoc_name
         text_i18n: grid_services_content_adhoc_text
