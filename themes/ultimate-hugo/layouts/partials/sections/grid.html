@@ -26,7 +26,7 @@
       <div class="col-sm-{{ .span_vertical }} col-md-{{ $.span_wide }}">
         <div class="grid-item">
           {{ if .image }}
-            <img class="profile-pic" src="{{ .image }}"/>
+            <a target="_blank" href="{{ .link }}"><img class="profile-pic" src="{{ .image }}"/></a>
           {{ else }}
             <ion-icon name="{{ .ionicon }}"></ion-icon>
           {{ end }}

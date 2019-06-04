@@ -28,7 +28,7 @@
 - id: simple_oss_title
   translation: "We ❤️ Open"
 - id: simple_oss_subtitle
-  translation: "Session Technologies is born and raised in open source communities; we consume, contribute, lead and advocate open source activities across different industries and technologies, on daily bases."
+  translation: "<p>In the last decade, Open Source initiatives have driven a drastic change across many aspects of the IT industry, from software development and deployment to business strategy and governance, leading to a proliferations of services, platform and solutions that can be challenging to navigate.</p><p>Session Technologies helps customers keeping focus on their objectives and find the right set of open source technologies that fit. We do it by:</p><ul><li>Contributing to Open Source projects as individuals</li><li>Organizing and participating to local technology meetups</li><li>Incentivating customers to adopt and contribute back to Open Source</li></ul>"
 
 - id: simple_polyglot_title
   translation: "Polyglot and distributed"

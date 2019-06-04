@@ -18,9 +18,9 @@
       {{ end }}
       <div class="col-md-7 col-sm-12">
         <div class="block">
-          <div class="section-title">
+          <div class="section-title" style="text-align: left;">
             <h2>{{ i18n .title_i18n }}</h2>
-            <p>{{ i18n .subtitle_i18n }}</p>
+            {{ i18n .subtitle_i18n | safeHTML }}
           </div>
           <p>{{ i18n .paragraph_i18n  | safeHTML }}</p>
         </div>

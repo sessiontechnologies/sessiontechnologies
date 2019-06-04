@@ -179,6 +179,13 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 100%;
 }
 
+ul {
+  margin-left: 20px;
+  list-style-type: upper-roman;
+  color: #7B7B7B;
+  font-style: italic;
+}
+
 /*--
 	Form Section
 --*/
