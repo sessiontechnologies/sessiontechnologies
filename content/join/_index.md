@@ -11,9 +11,9 @@ We are looking for a young, talented and passionate individual who wants to expa
 
 ## What are you going to do
 The candidate will be joining the Session team and be involved in designing, developing, testing and operating modern software solutions using different technologies; following Agile methodologies,
-the candidate will attend daily meeting and recurring meetings and will use internal chat systems to report on the progress made and to give and receive support from the team.
+the candidate will attend daily and recurring meetings, use internal chat systems to report progress and collaborate with the team.
 
-The candidate will be required to play different project roles, including customer-facing activities; part of the time will be invested in research and development.
+The candidate will be required to play different project roles, including customer-facing activities; part of daily working hours are invested in research and development.
 
 ## What we offer
 Below, some of the perks of working at Session Technologies.
