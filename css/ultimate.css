@@ -155,12 +155,35 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
   color: #666;
 }
+
+.grid .col-md-6 .grid-item p {
+  margin-left:10%;
+  margin-right:10%;
+}
+
 .grid .grid-item p {
   color: #888;
   padding-top: 4%;
   margin: 0;
   font-size: 90%;
   line-height: 1.8;
+}
+
+.profile-pic {
+  border-radius: 90%;
+  overflow: hidden;
+  display: inline;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  height: 100%;
+}
+
+ul {
+  margin-left: 20px;
+  list-style-type: upper-roman;
+  color: #7B7B7B;
+  font-style: italic;
 }
 
 /*--
