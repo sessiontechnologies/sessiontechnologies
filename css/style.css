@@ -1,69 +1,35 @@
-/*--
-  General styling
---*/
 
-/* https://fonts.googleapis.com/css?family=Open+Sans:400,300,600 */
-@import url({{ .Site.BaseURL }}css/lib/open-sans.css);
-/* https://fonts.googleapis.com/css?family=Ubuntu:400,100,300,500,700 */
-@import url({{ .Site.BaseURL }}css/lib/ubuntu.css);
-
-body {
-  font-family: 'Open Sans', sans-serif;
-  -webkit-font-smoothing: antialiased;
+div.page-content h2 {
+    color: #666 !important;
 }
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Ubuntu', sans-serif;
+div.page-content p {
+    color: #888 !important;
 }
 
-/*--
-	Icon size in Grid section
---*/
-ion-icon {
-  font-size: 48px;
+div.page-content ul {
+    color: #7B7B7B !important;
 }
 
-/*--
-	Slider background
---*/
-.slider {
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: 10% 0%;
-  padding: 50px 0 70px 0;
-  position: relative;
-}
-.slider:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
-  opacity: 0.8;
+
+@media (max-width: 580px) {
+    .slider .block h1 {
+        font-weight: 100;
+        font-size: 175%;
+        line-height: 150%;
+        letter-spacing: 0.25em;
+        padding-bottom: 6%;
+    }
+
+    section.simple div.container div.row {
+        display:flex;
+        flex-direction: column-reverse
+    }
 }
 
-/*--
-	Form background
---*/
-.form {
-  background-attachment: fixed;
-  padding: 70px 0px;
-  position: relative;
-  text-align: center;
-  color: #fff;
-}
-.form:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  background: #1d192c;
-  opacity: 0.8;
+@media (min-width: 580px) and (max-width: 767px) {
+   
+    section.simple div.container div.row {
+        display:flex;
+        flex-direction: column-reverse
+    }
 }
