@@ -21,7 +21,6 @@ simple:
     paragraph_i18n: simple_why_paragraph
   oss:
     imageside: "right"
-    backgroundcolor: "#f6f6f8"
     image: /img/open.png
     title_i18n: simple_oss_title
     subtitle_i18n: simple_oss_subtitle
@@ -37,6 +36,7 @@ simple:
     paragraph_i18n: simple_about_paragraph
 grid:
   services:
+    backgroundcolor: "#f6f6f8"
     title_i18n: grid_services_title
     subtitle_i18n: grid_services_subtitle
     span_wide: 4
@@ -58,6 +58,7 @@ grid:
         name_i18n: grid_services_content_adhoc_name
         text_i18n: grid_services_content_adhoc_text
   team:
+    backgroundcolor: "#f6f6f8"
     title_i18n: grid_team_title
     # subtitle_i18n: grid_team_subtitle
     span_wide: 6
@@ -76,7 +77,6 @@ grid:
 
 carousel:
   technologies:
-    backgroundcolor: "#f6f6f8"
     title_i18n: carousel_technologies_title
     subtitle_i18n: carousel_technologies_subtitle
     logos:
