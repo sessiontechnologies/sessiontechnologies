@@ -10,8 +10,8 @@
   <div class="container">
     <div class="row">
       {{ if ne .imageside "right" }}
-        <div class="col-md-5 col-sm-12">
-          <div class="block centered">
+        <div class="col-md-5 col-sm-12" style="display: flex; justify-content: center; align-items:center;">
+          <div class="block centered" style="display: flex; justify-content: center; align-items:center;">
             <img src="{{ .image }}" alt="{{ .image }}">
           </div>
         </div>
@@ -26,9 +26,9 @@
         </div>
       </div>
       {{ if eq .imageside "right" }}
-        <div class="col-md-5 col-sm-12">
-          <div class="block centered">
-            <img src="{{ .image }}" alt="{{ .image }}">
+        <div class="col-md-5 col-sm-12" style="display: flex; justify-content: center; align-items:center;">
+          <div class="block centered" style="display: flex; justify-content: center; align-items:center;">
+            <img src="{{ .image }}" alt="{{ .image }}" style="width: 85%; height: 85%">
           </div>
         </div>
       {{ end }}
