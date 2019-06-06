@@ -58,7 +58,6 @@ grid:
         name_i18n: grid_services_content_adhoc_name
         text_i18n: grid_services_content_adhoc_text
   team:
-    backgroundcolor: "#f6f6f8"
     title_i18n: grid_team_title
     # subtitle_i18n: grid_team_subtitle
     span_wide: 6
