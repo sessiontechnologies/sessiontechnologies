@@ -28,7 +28,7 @@
       {{ if eq .imageside "right" }}
         <div class="col-md-5 col-sm-12" style="display: flex; justify-content: center; align-items:center;">
           <div class="block centered" style="display: flex; justify-content: center; align-items:center;">
-            <img src="{{ .image }}" alt="{{ .image }}" style="width: 85%; height: 85%">
+            <img src="{{ .image }}" alt="{{ .image }}" style="max-height: 80%; max-width: 80%; opacity: 0.8;">
           </div>
         </div>
       {{ end }}
