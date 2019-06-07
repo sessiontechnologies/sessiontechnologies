@@ -93,7 +93,7 @@
 - id: carousel_technologies_title
   translation: "Our Technologies"
 - id: carousel_technologies_subtitle
-  translation: "Some of the tools we provide as part of our solutions"
+  translation: "Some of the tools we use as part of our solutions"
 - id: form_contact_success
   translation: "Form submitted!"
 - id: form_contact_success_text
