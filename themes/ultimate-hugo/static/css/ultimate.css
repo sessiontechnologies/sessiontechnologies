@@ -336,6 +336,11 @@ footer .footer-menu ul li a:hover {
     justify-content: center; 
     align-items:center;
   }
+
+  .page-content {
+    margin-right: 5%;
+    margin-left: 5%;
+  }
 }
 
 @media (min-width: 580px) and (max-width: 767px) {
@@ -351,4 +356,8 @@ footer .footer-menu ul li a:hover {
     align-items:center;
   }
 
+  .page-content {
+    margin-right: 10%;
+    margin-left: 10%;
+  }
 }
