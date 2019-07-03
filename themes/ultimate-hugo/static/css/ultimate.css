@@ -76,7 +76,11 @@ a:active {
 }
 .section-title p {
   font-style: italic;
-  color: #666;
+  font-family:  'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.63;
+  color: #98a7bd;
 }
 
 /*--
@@ -137,8 +141,11 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .simple .block p {
-  color: #7B7B7B;
-  padding-top: 3%;
+  font-family:  'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.63;
+  color: #98a7bd;
 }
 .simple .block img {
   padding-left: 6%;
@@ -170,7 +177,7 @@ font header .navbar-default .navbar-nav li a:hover {
 .slider .block h2 {
   width: 544px;
   height: 26px;
-  font-family: Roboto;
+  font-family:  'Roboto', sans-serif;
   font-size: 24px;
   font-weight: normal;
   line-height: 1.08;
@@ -179,7 +186,7 @@ font header .navbar-default .navbar-nav li a:hover {
 .slider .block p {
   width: 670px;
   height: 130px;
-  font-family: Roboto;
+  font-family:  'Roboto', sans-serif;
   font-size: 16px;
   font-weight: normal;
   line-height: 1.63;
@@ -198,20 +205,31 @@ font header .navbar-default .navbar-nav li a:hover {
 .grid .grid-item h4 {
   padding-top: 7%;
   margin: 0;
-  color: #666;
+  font-family:  'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.75;
+  text-align: center;
+  color: #404f66
 }
 
 .grid .col-md-6 .grid-item p {
   margin-left:10%;
   margin-right:10%;
+  font-family:  'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.63;
+  color: #98a7bd;
 }
 
 .grid .grid-item p {
-  color: #888;
+  font-family:  'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.63;
+  color: #98a7bd;
   padding-top: 4%;
-  margin: 0;
-  font-size: 90%;
-  line-height: 1.8;
 }
 
 .profile-pic {
@@ -227,7 +245,11 @@ font header .navbar-default .navbar-nav li a:hover {
 ul {
   margin-left: 20px;
   list-style-type: upper-roman;
-  color: #7B7B7B;
+  font-family:  'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.63;
+  color: #98a7bd;
   font-style: italic;
 }
 
@@ -357,7 +379,7 @@ footer .footer-menu ul li a:hover {
 
   .slider .block h2 {
     height: 26px;
-    font-family: Roboto;
+    font-family:  'Roboto', sans-serif;
     font-size: 24px;
     font-weight: normal;
     line-height: 1.08;
