@@ -42,19 +42,19 @@ grid:
     span_wide: 4
     span_vertical: 6
     content:
-      - ionicon: ribbon
+      - image: /img/verified.png
         name_i18n: grid_services_content_oss_name
         text_i18n: grid_services_content_oss_text
-      - ionicon: compass
+      - image: /img/bot.png
         name_i18n: grid_services_content_chatops_name
         text_i18n: grid_services_content_chatops_text
-      - ionicon: git-network
+      - image: /img/automate.png
         name_i18n: grid_services_content_process_name
         text_i18n: grid_services_content_process_text
-      - ionicon: fastforward
+      - image: /img/responsive.png
         name_i18n: grid_services_content_web_name
         text_i18n: grid_services_content_web_text
-      - ionicon: snow
+      - image: /img/snowflake.png
         name_i18n: grid_services_content_adhoc_name
         text_i18n: grid_services_content_adhoc_text
   team:

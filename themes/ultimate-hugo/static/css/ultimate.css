@@ -254,6 +254,22 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 100%;
 }
 
+.services {
+  width: 80px;
+  height: 50px;
+  object-fit: contain;
+}
+
+.col-md-6 .grid-item a img.services {
+  border-radius: 90%;
+  overflow: hidden;
+  display: inline;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  height: 100%;
+
+}
 ul {
   margin-left: 20px;
   list-style-type: upper-roman;
