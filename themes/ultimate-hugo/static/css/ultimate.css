@@ -16,18 +16,30 @@
 
 .page-content h2 {
   margin-top: 30px;
-  color: #666 !important;
+  font-family: 'Roboto', sans-serif;;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.75;
+  color: #404f66!important;
 }
 
 .page-content p {
   margin: 5px;
-  color: #888 !important;
+  font-family: 'Roboto', sans-serif;;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.63;
+  color: #98a7bd!important;
 }
 
 .page-content ul {
   list-style-type: upper-roman;
+  font-family: 'Roboto', sans-serif;;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.63;
   margin-left: 30px;
-  color: #7B7B7B !important;
+  color: #98a7bd !important;
 }
 
 /*--
@@ -342,7 +354,7 @@ footer {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: #404f66;
 }
 footer a {
   color: #595959;
