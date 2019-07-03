@@ -4,7 +4,7 @@ footer:
   paragraph_i18n: footer_message
 slider:
   top:
-    backgroundimage: /img/slider-bg.jpg
+    backgroundimage: /img/slider_background.jpg
     title_i18n: slider_top_title
     subtitle_i18n: slider_top_subtitle
     paragraph_i18n: slider_top_paragraph

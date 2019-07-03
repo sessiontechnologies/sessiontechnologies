@@ -1,6 +1,11 @@
 /*--
   Page content
 --*/
+* {
+  letter-spacing: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
 .page-content {
   display: block;
   flex-wrap: wrap;
@@ -61,7 +66,13 @@ a:active {
 }
 .section-title h2 {
   text-transform: uppercase;
-  font-weight: 600;
+  height: 42px;
+  font-family: OpenSans;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 1.17;
+  text-align: center;
+  color: #404f66
 }
 .section-title p {
   font-style: italic;
@@ -144,21 +155,36 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 .slider .block {
   color: #E3E3E4;
+  padding-left: 160px
 }
 .slider .block h1 {
-  font-weight: 100;
-  font-size: 280%;
-  line-height: 150%;
-  letter-spacing: 0.25em;
-  padding-bottom: 6%;
+  width: 562px;
+  height: 52px;
+  font-family: OpenSans;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 1.17;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+.slider .block h2 {
+  width: 544px;
+  height: 26px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.08;
+  color: #ffffff;
 }
 .slider .block p {
-  font-size: 140%;
-  line-height: 180%;
-  font-weight: 300;
-  letter-spacing: 0.15em;
+  width: 670px;
+  height: 130px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.63;
+  color: #ffffff;
 }
-
 /*--
 	Grid Section
 --*/
@@ -320,11 +346,22 @@ footer .footer-menu ul li a:hover {
 
 @media (max-width: 580px) {
   .slider .block h1 {
-      font-weight: 100;
-      font-size: 175%;
-      line-height: 150%;
-      letter-spacing: 0.25em;
-      padding-bottom: 6%;
+    height: 52px;
+    font-family: OpenSans;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 1.17;
+    color: #ffffff;
+    margin-bottom: 0;
+  }
+
+  .slider .block h2 {
+    height: 26px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1.08;
+    color: #ffffff;
   }
 
   section.simple div.container div.row {
