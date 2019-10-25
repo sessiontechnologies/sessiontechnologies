@@ -67,12 +67,12 @@ grid:
       - ionicon: ribbon
         name_i18n: grid_team_carlo_name
         text_i18n: grid_team_carlo_text
-        image: https://media.licdn.com/dms/image/C4E03AQFlAl8wFGq57w/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=2lXiW-nPZwTRWvz2rL8ASi0mKRutn0A_Z_5hGvFrxUg
+        image: https://media.licdn.com/dms/image/C4E03AQFlAl8wFGq57w/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=csy7-67KIJsUJGK_BQt5WY0JGS5_oOirYEIY9iNhXWU
         link: https://www.linkedin.com/in/carlosciolla/
       - ionicon: ribbon
         name_i18n: grid_team_mao_name
         text_i18n: grid_team_mao_text
-        image: https://media.licdn.com/dms/image/C5603AQH81shNWjeaxg/profile-displayphoto-shrink_200_200/0?e=1565222400&v=beta&t=-cb3ncPa65T_98VgVRjQlBLVW2gAaS6H_sZmck3MWaQ
+        image: https://media.licdn.com/dms/image/C5603AQH81shNWjeaxg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=vJmSGf4-PCHQ1PkMPdWpBSt-3VV8261xGIlrYWovbAM
         link: https://www.linkedin.com/in/mpillitu
 
 carousel:

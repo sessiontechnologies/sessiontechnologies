@@ -105,23 +105,23 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 5% 0;
 }
 .simple .col-md-5 {
-  display: flex; 
-  justify-content: center; 
+  display: flex;
+  justify-content: center;
   align-items:center;
 }
 .simple .block h2 {
   padding-top: 2.5%;
   margin: 0;
-  display: flex; 
-  justify-content: center; 
+  display: flex;
+  justify-content: center;
   align-items:center;
 }
 
 .simple .block {
   padding-top: 2.5%;
   margin: 0;
-  display: flex; 
-  justify-content: center; 
+  display: flex;
+  justify-content: center;
   align-items:center;
 }
 
@@ -196,6 +196,8 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 200px;
   margin: 0 auto;
   height: 100%;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%)
 }
 
 ul {
@@ -332,8 +334,8 @@ footer .footer-menu ul li a:hover {
       flex-direction: column-reverse
   }
   .simple .col-md-12 {
-    display: flex; 
-    justify-content: center; 
+    display: flex;
+    justify-content: center;
     align-items:center;
   }
 }
@@ -346,8 +348,8 @@ footer .footer-menu ul li a:hover {
   }
 
   .simple .col-md-12 {
-    display: flex; 
-    justify-content: center; 
+    display: flex;
+    justify-content: center;
     align-items:center;
   }
 
