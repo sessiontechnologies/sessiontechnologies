@@ -1,7 +1,5 @@
 # session.it - web project
 
-[![Build Status](https://travis-ci.org/sessiontechnologies/sessiontechnologies.svg?branch=master)](https://travis-ci.org/sessiontechnologies/sessiontechnologies)
-
 Session Technologies is a consulting firm specialized in web and automation technologies, with strong roots in open source.
 
 This is our website, built with [GoHugo](https://gohugo.io/), Travis CI and GitHub Pages.
