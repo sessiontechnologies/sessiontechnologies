@@ -67,12 +67,13 @@ grid:
       - ionicon: ribbon
         name_i18n: grid_team_carlo_name
         text_i18n: grid_team_carlo_text
-        image: https://media.licdn.com/dms/image/C4E03AQFlAl8wFGq57w/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=csy7-67KIJsUJGK_BQt5WY0JGS5_oOirYEIY9iNhXWU
+        
+        image: https://session.it/img/carlo.jpeg
         link: https://www.linkedin.com/in/carlosciolla/
       - ionicon: ribbon
         name_i18n: grid_team_mao_name
         text_i18n: grid_team_mao_text
-        image: https://media.licdn.com/dms/image/C5603AQH81shNWjeaxg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=vJmSGf4-PCHQ1PkMPdWpBSt-3VV8261xGIlrYWovbAM
+        image: https://session.it/img/mao.jpg
         link: https://www.linkedin.com/in/mpillitu
 
 carousel:
